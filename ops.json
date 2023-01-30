@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "7088e82f-60a4-3e5e-b33c-657228993dbc",
+    "name": "Pacchu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7b568e1b-a38c-3f46-83a9-bdb7c979a156",
+    "name": "pigi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "61967ad5-c24a-393f-97db-48a5d9297354",
+    "name": "jeeravan",
+    "level": 50,
+    "bypassesPlayerLimit": false
+  }
+]

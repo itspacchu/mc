@@ -1,0 +1,74 @@
+[04:02:17] [ServerMain/INFO]: Building unoptimized datafixer
+[04:02:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:02:20] [ServerMain/INFO]: Loaded 7 recipes
+[04:02:22] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[04:02:22] [Server thread/INFO]: Loading properties
+[04:02:22] [Server thread/INFO]: This server is running Paper version git-Paper-307 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 476ef25)
+[04:02:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:02:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:02:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[04:02:22] [Server thread/INFO]: Default game type: SURVIVAL
+[04:02:22] [Server thread/INFO]: Generating keypair
+[04:02:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:02:22] [Server thread/INFO]: Using epoll channel type
+[04:02:22] [Server thread/INFO]: Paper: Using libdeflate (Linux aarch64) compression from Velocity.
+[04:02:22] [Server thread/INFO]: Paper: Using OpenSSL (Linux aarch64) cipher from Velocity.
+[04:02:23] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.8
+[04:02:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:02:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:02:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:02:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:02:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:02:23] [Server thread/INFO]: Preparing level "world"
+[04:02:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:02:24] [Server thread/INFO]: Time elapsed: 154 ms
+[04:02:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:02:24] [Server thread/INFO]: Time elapsed: 57 ms
+[04:02:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:02:24] [Server thread/INFO]: Time elapsed: 37 ms
+[04:02:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.8
+[04:02:25] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_19_R1[32;1m, using [33;1mPaperSkinRefresher[32;1m.[0;39m
+[04:02:25] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[04:02:25] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[04:02:25] [Server thread/INFO]: Starting remote control listener
+[04:02:25] [Server thread/INFO]: Thread RCON Listener started
+[04:02:25] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[04:02:25] [Server thread/INFO]: Running delayed init tasks
+[04:02:25] [Server thread/INFO]: Done (3.699s)! For help, type "help"
+[04:02:25] [Server thread/INFO]: Timings Reset
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.2.8[0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[04:02:26] [Craft Scheduler Thread - 3 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:03:49] [User Authenticator #0/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[04:03:49] [Server thread/INFO]: Pacchu joined the game
+[04:03:49] [Server thread/INFO]: Pacchu[/49.204.211.8:65144] logged in with entity id 412 at ([world]-279.5, 95.0, -314.5)
+[04:04:18] [Server thread/INFO]: Pacchu issued server command: /t
+[04:04:23] [Server thread/INFO]: Pacchu issued server command: /help
+[04:04:26] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[04:04:26] [Server thread/INFO]: Pacchu left the game
+[04:06:50] [Server thread/INFO]: Made Pacchu a server operator
+[04:07:50] [User Authenticator #1/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[04:07:50] [Server thread/INFO]: Pacchu joined the game
+[04:07:50] [Server thread/INFO]: Pacchu[/49.204.211.8:64198] logged in with entity id 1172 at ([world]-278.992023204728, 95.5625, -315.36865115951537)
+[04:08:37] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[04:08:37] [Server thread/INFO]: Pacchu left the game
+[06:30:45] [User Authenticator #2/INFO]: UUID of player pigi is 7b568e1b-a38c-3f46-83a9-bdb7c979a156
+[06:30:45] [Server thread/INFO]: pigi joined the game
+[06:30:45] [Server thread/INFO]: pigi[/103.37.201.178:54443] logged in with entity id 1338 at ([world]-279.4637441913186, 94.0, -310.66675059094763)
+[06:41:14] [Server thread/INFO]: pigi issued server command: /tp pigi 706 64 -378
+[06:41:14] [Server thread/INFO]: [pigi: Teleported pigi to 706.500000, 64.000000, -377.500000]
+[06:45:16] [Server thread/INFO]: pigi issued server command: /locate
+[06:45:40] [Server thread/INFO]: pigi issued server command: /locate structure minecraft:end_city
+[06:45:55] [Server thread/INFO]: pigi issued server command: /locate structure #minecraft:eye_of_ender_located
+[06:47:10] [Server thread/INFO]: pigi issued server command: /locate biome
+[06:50:52] [Server thread/INFO]: pigi tried to swim in lava to escape Magma Cube
+[06:54:21] [Server thread/INFO]: pigi was slain by Iron Golem
+[07:02:21] [Server thread/INFO]: pigi lost connection: Disconnected
+[07:02:21] [Server thread/INFO]: pigi left the game
