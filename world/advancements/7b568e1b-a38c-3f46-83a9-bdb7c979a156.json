@@ -577,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-01-30 18:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2023-01-12 12:15:26 +0000"
@@ -1107,6 +1113,7 @@
       "minecraft:frozen_river": "2023-01-29 20:03:20 +0000",
       "minecraft:sunflower_plains": "2023-01-12 23:05:57 +0000",
       "minecraft:birch_forest": "2023-01-22 21:27:24 +0000",
+      "minecraft:savanna_plateau": "2023-01-30 18:30:39 +0000",
       "minecraft:beach": "2023-01-29 21:35:12 +0000",
       "minecraft:river": "2023-01-12 23:05:53 +0000",
       "minecraft:snowy_plains": "2023-01-29 20:03:44 +0000",
