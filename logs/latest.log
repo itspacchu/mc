@@ -1,1 +1,431 @@
-[20:42:59] [Server thread/INFO]: /185.25.206.222:60698 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[09:28:28] [User Authenticator #47/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[09:28:28] [Server thread/INFO]: Pacchu joined the game
+[09:28:28] [Server thread/INFO]: Pacchu[/49.204.215.168:40563] logged in with entity id 368382 at ([world]-1011.5241797552688, 86.61600509661517, -264.37541593719857)
+[09:32:52] [User Authenticator #48/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[09:32:52] [Server thread/INFO]: Scienceboi joined the game
+[09:32:52] [Server thread/INFO]: Scienceboi[/45.124.146.105:58477] logged in with entity id 369736 at ([world]-1057.5, 64.0, -101.5)
+[09:36:31] [User Authenticator #49/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[09:36:31] [Server thread/INFO]: Ruby joined the game
+[09:36:31] [Server thread/INFO]: Ruby[/49.37.113.225:61009] logged in with entity id 370584 at ([world]-1065.5, 64.0, -109.5)
+[09:37:24] [Async Chat Thread - #18/INFO]: [Not Secure] <Pacchu> tlaun.ch
+[09:38:30] [Server thread/INFO]: Ruby has made the advancement [A Seedy Place]
+[09:39:01] [Server thread/INFO]: Ruby has made the advancement [Sweet Dreams]
+[09:39:14] [Server thread/INFO]: Scienceboi has made the advancement [Sweet Dreams]
+[09:41:42] [Server thread/INFO]: Pacchu issued server command: /skin set Scienceboi notch
+[09:44:10] [Server thread/INFO]: Ruby has made the advancement [Stone Age]
+[09:47:22] [Server thread/INFO]: Pacchu issued server command: /tp Ruby Pacchu
+[09:47:22] [Server thread/INFO]: [Pacchu: Teleported Ruby to Pacchu]
+[09:48:22] [Server thread/INFO]: Scienceboi has made the advancement [Suit Up]
+[09:48:31] [Server thread/WARN]: Ruby was kicked due to keepalive timeout!
+[09:48:31] [Server thread/INFO]: Ruby lost connection: Timed out
+[09:48:31] [Server thread/INFO]: Ruby left the game
+[09:49:07] [User Authenticator #50/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[09:49:07] [Server thread/INFO]: Ruby joined the game
+[09:49:07] [Server thread/INFO]: Ruby[/49.37.113.225:63718] logged in with entity id 373398 at ([world]-287.2745487913471, 95.00133597911214, -319.02833678975634)
+[09:49:27] [User Authenticator #50/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
+[09:49:27] [Server thread/INFO]: WakeAwake joined the game
+[09:49:27] [Server thread/INFO]: WakeAwake[/49.37.66.142:60400] logged in with entity id 373406 at ([world]-1056.5, 66.0, -117.5)
+[09:49:34] [Server thread/INFO]: Pacchu issued server command: /tp WakeAwake Pacchu
+[09:49:34] [Server thread/INFO]: [Pacchu: Teleported WakeAwake to Pacchu]
+[09:49:42] [Server thread/INFO]: Ruby has made the advancement [Suit Up]
+[09:50:56] [Server thread/INFO]: Scienceboi has made the advancement [Acquire Hardware]
+[09:51:24] [Server thread/INFO]: Ruby has made the advancement [Diamonds!]
+[09:52:11] [Server thread/INFO]: WakeAwake lost connection: Timed out
+[09:52:11] [Server thread/INFO]: WakeAwake left the game
+[09:52:21] [Server thread/INFO]: Scienceboi has made the advancement [Isn't It Iron Pick]
+[09:54:06] [Server thread/INFO]: Ruby has made the advancement [Acquire Hardware]
+[09:56:06] [Server thread/INFO]: Pacchu issued server command: /difficulty hard
+[09:56:06] [Server thread/INFO]: [Pacchu: The difficulty has been set to Hard]
+[09:57:06] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[09:57:06] [Server thread/INFO]: Scienceboi left the game
+[09:58:42] [User Authenticator #51/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[09:58:42] [Server thread/INFO]: Rein joined the game
+[09:58:42] [Server thread/INFO]: Rein[/49.36.233.37:57039] logged in with entity id 374558 at ([world]-200.30000001192093, 41.0, -301.3193030409071)
+[09:58:55] [Server thread/INFO]: Ruby has made the advancement [Monster Hunter]
+[09:58:56] [Server thread/INFO]: Pacchu issued server command: /tp Rein Pacchu
+[09:58:56] [Server thread/INFO]: [Pacchu: Teleported Rein to Pacchu]
+[09:59:26] [Server thread/INFO]: Rein lost connection: Disconnected
+[09:59:26] [Server thread/INFO]: Rein left the game
+[10:02:25] [User Authenticator #52/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[10:02:25] [Server thread/INFO]: Rein joined the game
+[10:02:25] [Server thread/INFO]: Rein[/49.36.233.37:60204] logged in with entity id 376173 at ([world]-1065.2147011646284, 64.0, -112.04957208061803)
+[10:02:44] [Server thread/INFO]: Rein lost connection: Disconnected
+[10:02:44] [Server thread/INFO]: Rein left the game
+[10:05:52] [User Authenticator #53/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:05:52] [Server thread/INFO]: Scienceboi joined the game
+[10:05:52] [Server thread/INFO]: Scienceboi[/45.124.146.105:53091] logged in with entity id 376798 at ([world]-1037.961956742423, 68.0, -119.71000447615943)
+[10:06:46] [User Authenticator #53/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[10:06:46] [Server thread/INFO]: Rein joined the game
+[10:06:46] [Server thread/INFO]: Rein[/49.36.233.37:53973] logged in with entity id 376939 at ([world]-1065.2147011646284, 64.0, -112.04957208061803)
+[10:08:10] [Server thread/INFO]: Pacchu issued server command: /tp Scienceboi Rein
+[10:08:10] [Server thread/INFO]: [Pacchu: Teleported Scienceboi to Rein]
+[10:08:16] [Server thread/INFO]: Pacchu issued server command: /tp Scienceboi Ruby
+[10:08:16] [Server thread/INFO]: [Pacchu: Teleported Scienceboi to Ruby]
+[10:08:45] [Server thread/INFO]: Pacchu issued server command: /tp Scienceboi Ruby
+[10:08:45] [Server thread/INFO]: [Pacchu: Teleported Scienceboi to Ruby]
+[10:10:26] [Server thread/INFO]: Rein has made the advancement [Acquire Hardware]
+[10:10:31] [User Authenticator #54/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:10:31] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:10:31] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:62493] logged in with entity id 379479 at ([world]-1058.5, 65.0, -113.5)
+[10:10:36] [Server thread/INFO]: Rein has made the advancement [Suit Up]
+[10:10:40] [Server thread/INFO]: Rein has made the advancement [Cover Me with Diamonds]
+[10:11:57] [Server thread/INFO]: Scienceboi has made the advancement [Monster Hunter]
+[10:12:06] [Server thread/INFO]: Rein has made the advancement [A Seedy Place]
+[10:12:45] [Server thread/INFO]: Rein has made the advancement [Isn't It Iron Pick]
+[10:13:20] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Monster Hunter]
+[10:13:39] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:torch 10
+[10:13:39] [Server thread/INFO]: [Pacchu: Gave 10 [Torch] to Pacchu]
+[10:14:02] [Server thread/INFO]: Rein has made the advancement [Sweet Dreams]
+[10:14:29] [Server thread/INFO]: Rein has made the advancement [Monster Hunter]
+[10:14:48] [Server thread/INFO]: Rein lost connection: Disconnected
+[10:14:48] [Server thread/INFO]: Rein left the game
+[10:14:54] [Server thread/INFO]: Pacchu issued server command: /time set day
+[10:14:54] [Server thread/INFO]: [Pacchu: Set the time to 1000]
+[10:14:57] [User Authenticator #55/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[10:14:57] [Server thread/INFO]: Rein joined the game
+[10:14:57] [Server thread/INFO]: Rein[/49.36.233.37:63626] logged in with entity id 381397 at ([world]-257.5, 102.0, -273.5)
+[10:15:20] [User Authenticator #55/INFO]: UUID of player ItsMacky0 is f6ce62a7-3c06-33a3-b290-142c316a1e2f
+[10:15:20] [Server thread/INFO]: ItsMacky0 joined the game
+[10:15:20] [Server thread/INFO]: ItsMacky0[/49.204.215.168:40428] logged in with entity id 381546 at ([world]-1066.5, 64.0, -101.5)
+[10:15:28] [Async Chat Thread - #20/INFO]: [Not Secure] <Pacchu> o hem
+[10:15:35] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> lotta kids
+[10:15:44] [Async Chat Thread - #20/INFO]: [Not Secure] <Pacchu> who u calling kids
+[10:15:52] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> you
+[10:15:52] [Async Chat Thread - #20/INFO]: [Not Secure] <ImmortalGamer_> the fuck
+[10:15:57] [Async Chat Thread - #20/INFO]: [Not Secure] <ImmortalGamer_> facts
+[10:16:00] [Async Chat Thread - #20/INFO]: [Not Secure] <Pacchu> :|
+[10:16:09] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> my ping
+[10:16:13] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> wtaf
+[10:16:21] [Async Chat Thread - #20/INFO]: [Not Secure] <Pacchu> wtf
+[10:16:22] [Async Chat Thread - #20/INFO]: [Not Secure] <Pacchu> lmao
+[10:16:43] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> router on crack
+[10:16:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Pacchu> xD
+[10:16:57] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Stone Age]
+[10:17:13] [Async Chat Thread - #20/INFO]: [Not Secure] <ImmortalGamer_> hallo
+[10:17:17] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> elo
+[10:17:25] [Server thread/INFO]: Rein was blown up by Creeper
+[10:17:31] [Async Chat Thread - #20/INFO]: [Not Secure] <ImmortalGamer_> Rein moment
+[10:17:36] [Async Chat Thread - #20/INFO]: [Not Secure] <ItsMacky0> f
+[10:17:44] [Server thread/INFO]: Pacchu issued server command: /tp Rein Pacchu
+[10:17:44] [Server thread/INFO]: [Pacchu: Teleported Rein to Pacchu]
+[10:17:57] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Getting an Upgrade]
+[10:18:47] [Server thread/INFO]: Scienceboi has made the advancement [Stone Age]
+[10:20:21] [Server thread/INFO]: Pacchu issued server command: /tps
+[10:20:39] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Acquire Hardware]
+[10:20:48] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Isn't It Iron Pick]
+[10:21:28] [Server thread/INFO]: Rein has made the advancement [Diamonds!]
+[10:21:37] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:21:37] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:21:41] [Server thread/INFO]: Scienceboi has made the advancement [Diamonds!]
+[10:22:33] [Server thread/INFO]: Pacchu issued server command: /tp Ruby
+[10:22:33] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Ruby]
+[10:22:47] [Server thread/INFO]: Pacchu issued server command: /tp
+[10:22:54] [Server thread/INFO]: Pacchu issued server command: /tp ItsMacky0
+[10:22:54] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ItsMacky0]
+[10:23:09] [Async Chat Thread - #22/INFO]: [Not Secure] <Pacchu> wait hem
+[10:23:17] [Async Chat Thread - #22/INFO]: [Not Secure] <ItsMacky0> how to find a ocean without ending up in dissapointment
+[10:23:22] [Async Chat Thread - #22/INFO]: [Not Secure] <ImmortalGamer_> u dont
+[10:23:23] [Async Chat Thread - #22/INFO]: [Not Secure] <Pacchu> wait im
+[10:23:24] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> coming
+[10:23:26] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> wait
+[10:23:58] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> o vuiklet
+[10:24:01] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> violet
+[10:24:05] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> yes
+[10:24:30] [Server thread/INFO]: ItsMacky0 has made the advancement [Diamonds!]
+[10:24:32] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> o
+[10:24:34] [Server thread/INFO]: ItsMacky0 has made the advancement [Suit Up]
+[10:24:40] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> keepinv is on
+[10:24:50] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> baritone?
+[10:25:23] [Server thread/INFO]: ItsMacky0 has made the advancement [Stone Age]
+[10:25:33] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> dude there is village
+[10:25:35] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> no baritone
+[10:25:40] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> this is 4mo old world lol
+[10:25:53] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> bru
+[10:25:59] [Server thread/INFO]: ItsMacky0 has made the advancement [Acquire Hardware]
+[10:26:02] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> did u not go to the other
+[10:26:04] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> village
+[10:26:09] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> nop
+[10:26:12] [Server thread/INFO]: ItsMacky0 has made the advancement [Cover Me with Diamonds]
+[10:26:54] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> which side did i come from
+[10:27:04] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> -300 -300 is where village at
+[10:27:38] [Server thread/INFO]: Ruby suffocated in a wall
+[10:27:47] [Async Chat Thread - #23/INFO]: [Not Secure] <ImmortalGamer_> Mineral simulator
+[10:28:05] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> ok wtf my ethernet is unplugged
+[10:28:09] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> lmao
+[10:28:12] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> explains the ping
+[10:28:13] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> teh fuck
+[10:28:16] [Async Chat Thread - #23/INFO]: [Not Secure] <ImmortalGamer_> pacchu ne nikala hoga pakka
+[10:29:10] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> god you have elyrtras aswell
+[10:29:15] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> 4 months
+[10:29:17] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> :|
+[10:29:21] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> i need phantoms to spawn
+[10:29:24] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> so i can repair one
+[10:29:24] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> smh youre sitting in a boat with elytra in your hand
+[10:29:27] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> mending
+[10:29:31] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> where
+[10:29:43] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> waiting for them to find it
+[10:30:02] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> boating is more fun than watching clouds
+[10:30:15] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> :facepalm:
+[10:30:37] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> CREEPA
+[10:30:40] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Diamonds!]
+[10:30:40] [Server thread/INFO]: ItsMacky0 issued server command: /tpa
+[10:30:48] [Server thread/INFO]: Ruby issued server command: /:D
+[10:30:49] [Async Chat Thread - #23/INFO]: [Not Secure] <Rein> AWWWWWWWWWW MAN
+[10:30:50] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> no tpa?
+[10:30:56] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> theres tp
+[10:31:01] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> only ogs hav
+[10:31:20] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> my ping dont let me get out of boat
+[10:31:59] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:31:59] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:32:03] [Server thread/INFO]: Scienceboi has made the advancement [Getting an Upgrade]
+[10:32:04] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> WOA
+[10:32:23] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> this village looks so sick
+[10:32:30] [Server thread/INFO]: Pacchu issued server command: /tp ItsMacky0
+[10:32:30] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ItsMacky0]
+[10:32:33] [Async Chat Thread - #23/INFO]: [Not Secure] <ItsMacky0> its on a mountain
+[10:32:35] [Async Chat Thread - #23/INFO]: [Not Secure] <Pacchu> oh wow
+[10:32:42] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:elytra
+[10:32:42] [Server thread/INFO]: [Pacchu: Gave 1 [Elytra] to Pacchu]
+[10:32:44] [Server thread/INFO]: ItsMacky0 has made the advancement [Not Today, Thank You]
+[10:32:55] [Server thread/INFO]: ItsMacky0 has made the advancement [Monster Hunter]
+[10:34:17] [Async Chat Thread - #24/INFO]: [Not Secure] <ItsMacky0> where villagers
+[10:34:23] [Async Chat Thread - #24/INFO]: [Not Secure] <Pacchu> wait i came here
+[10:34:36] [Async Chat Thread - #24/INFO]: [Not Secure] <ItsMacky0> smh i was gonna setup a labour camp
+[10:34:39] [Async Chat Thread - #24/INFO]: [Not Secure] <Pacchu> dude -300 300
+[10:34:45] [Async Chat Thread - #24/INFO]: [Not Secure] <Pacchu> theres one more at -300 -300
+[10:35:14] [Async Chat Thread - #24/INFO]: [Not Secure] <ItsMacky0> aa
+[10:35:18] [Async Chat Thread - #24/INFO]: [Not Secure] <ItsMacky0> i have tution
+[10:35:24] [Async Chat Thread - #24/INFO]: [Not Secure] <ItsMacky0> cya
+[10:36:00] [Server thread/INFO]: ItsMacky0 has made the advancement [Light as a Rabbit]
+[10:36:20] [Server thread/INFO]: ItsMacky0 lost connection: Disconnected
+[10:36:20] [Server thread/INFO]: ItsMacky0 left the game
+[10:38:10] [Server thread/INFO]: Pacchu issued server command: /tp Ruby
+[10:38:10] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Ruby]
+[10:39:37] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:39:37] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:39:42] [Server thread/INFO]: Rein suffocated in a wall
+[10:40:06] [Async Chat Thread - #26/INFO]: [Not Secure] <ImmortalGamer_> couldnt "rein"force ur lungs i see
+[10:40:14] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:40:14] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:41:05] [Server thread/INFO]: Rein has reached the goal [Sky's the Limit]
+[10:44:33] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_
+[10:44:33] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ImmortalGamer_]
+[10:44:39] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:44:39] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:46:38] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[10:46:38] [Server thread/INFO]: Pacchu left the game
+[10:46:40] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[10:46:40] [Server thread/INFO]: ImmortalGamer_ left the game
+[10:46:45] [User Authenticator #56/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[10:46:45] [Server thread/INFO]: Pacchu joined the game
+[10:46:45] [Server thread/INFO]: Pacchu[/49.204.215.168:40518] logged in with entity id 397441 at ([world]-913.7261727481261, 75.0, 319.0149628000922)
+[10:47:02] [User Authenticator #56/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:47:02] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:47:02] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:54360] logged in with entity id 397547 at ([world]-1004.3000000119209, -14.0, -138.30000001192093)
+[10:47:27] [Server thread/INFO]: Pacchu was slain by Enderman
+[10:47:37] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:47:37] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:48:42] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_
+[10:48:42] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ImmortalGamer_]
+[10:49:36] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:49:36] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:51:27] [Server thread/INFO]: Pacchu issued server command: /tp Rein Pacchu
+[10:51:27] [Server thread/INFO]: [Pacchu: Teleported Rein to Pacchu]
+[10:51:47] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_
+[10:51:47] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ImmortalGamer_]
+[10:52:07] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[10:52:07] [Server thread/INFO]: ImmortalGamer_ left the game
+[10:52:11] [User Authenticator #57/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:52:11] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:52:11] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:60275] logged in with entity id 402321 at ([world]-1057.8319367218287, -26.0, -121.56062313770067)
+[10:52:37] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[10:52:37] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[10:53:20] [Server thread/INFO]: Scienceboi has made the advancement [A Seedy Place]
+[10:55:46] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Cover Me with Diamonds]
+[10:57:45] [Server thread/WARN]: Boat (vehicle of Rein) moved wrongly! 0.3525953964580708
+[10:57:45] [Server thread/WARN]: Boat (vehicle of Rein) moved wrongly! 0.6383707590685503
+[10:58:38] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[10:58:38] [Server thread/INFO]: Pacchu left the game
+[10:58:40] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[10:58:40] [Server thread/INFO]: ImmortalGamer_ left the game
+[10:59:06] [User Authenticator #58/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:59:06] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:59:06] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:60471] logged in with entity id 407784 at ([world]-1023.6428766637042, -41.0, -133.30000001192093)
+[10:59:13] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[10:59:13] [Server thread/INFO]: ImmortalGamer_ left the game
+[10:59:40] [User Authenticator #58/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[10:59:40] [Server thread/INFO]: Pacchu joined the game
+[10:59:40] [Server thread/INFO]: Pacchu[/49.204.215.168:39420] logged in with entity id 408093 at ([world]-1791.3815243603124, 64.0, 74.32505414037085)
+[10:59:45] [Server thread/INFO]: Pacchu issued server command: /time set day
+[10:59:45] [Server thread/INFO]: [Pacchu: Set the time to 1000]
+[10:59:46] [User Authenticator #58/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:59:47] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:59:47] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:60477] logged in with entity id 408129 at ([world]-1023.6428766637042, -41.0, -133.30000001192093)
+[11:03:59] [Async Chat Thread - #28/INFO]: [Not Secure] <Pacchu> -1822 -80
+[11:05:15] [Server thread/INFO]: Pacchu issued server command: /locate biome minecraft:jungle
+[11:07:42] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:firework_rocket 19
+[11:07:42] [Server thread/INFO]: [Pacchu: Gave 19 [Firework Rocket] to Pacchu]
+[11:08:05] [Server thread/INFO]: ImmortalGamer_ was slain by Zombie
+[11:08:11] [Server thread/INFO]: Pacchu issued server command: /skin set ImmortalGamer Technoblade
+[11:08:39] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 2.2288930013548085
+[11:08:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Pacchu> -1701 -786
+[11:10:50] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[11:10:50] [Server thread/INFO]: Pacchu left the game
+[11:10:56] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[11:10:56] [Server thread/INFO]: ImmortalGamer_ left the game
+[11:11:02] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[11:11:02] [Server thread/INFO]: Scienceboi left the game
+[11:11:07] [Server thread/INFO]: Ruby lost connection: Disconnected
+[11:11:07] [Server thread/INFO]: Ruby left the game
+[11:11:11] [User Authenticator #59/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[11:11:11] [Server thread/INFO]: ImmortalGamer_ joined the game
+[11:11:11] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:57196] logged in with entity id 417262 at ([world]-1295.8257201731642, 111.8500000178814, -352.03464473532375)
+[11:11:25] [User Authenticator #59/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[11:11:25] [Server thread/INFO]: Pacchu joined the game
+[11:11:25] [Server thread/INFO]: Pacchu[/49.204.215.168:40791] logged in with entity id 417466 at ([world]-1786.6544891051212, 63.0, -895.9646841735686)
+[11:11:32] [User Authenticator #59/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:11:32] [Server thread/INFO]: Scienceboi joined the game
+[11:11:32] [Server thread/INFO]: Scienceboi[/45.124.146.105:64429] logged in with entity id 417513 at ([world]-953.4385232669515, 71.0, 512.4253155804294)
+[11:11:42] [Async Chat Thread - #32/INFO]: [Not Secure] <Pacchu> -1800 -900
+[11:11:52] [User Authenticator #59/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[11:11:52] [Server thread/INFO]: Ruby joined the game
+[11:11:52] [Server thread/INFO]: Ruby[/49.37.113.225:46721] logged in with entity id 418008 at ([world]-950.8063095115331, 72.0, 513.0108798852076)
+[11:11:55] [Server thread/WARN]: Horse (vehicle of ImmortalGamer_) moved wrongly! 0.31698539389401503
+[11:11:55] [Server thread/WARN]: Horse (vehicle of ImmortalGamer_) moved wrongly! 0.5012790913239655
+[11:11:55] [Server thread/WARN]: Horse (vehicle of ImmortalGamer_) moved wrongly! 0.812443547070643
+[11:11:55] [Server thread/WARN]: Horse (vehicle of ImmortalGamer_) moved wrongly! 1.0
+[11:22:42] [Server thread/INFO]: Pacchu issued server command: /give ImmortalGamer_ minecraft:lead
+[11:22:42] [Server thread/INFO]: [Pacchu: Gave 1 [Lead] to ImmortalGamer_]
+[11:23:12] [Async Chat Thread - #34/INFO]: [Not Secure] <Ruby> Pacchumoi
+[11:23:17] [Async Chat Thread - #34/INFO]: [Not Secure] <Ruby> moi
+[11:23:20] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[11:23:20] [Server thread/INFO]: Pacchu left the game
+[11:23:21] [Async Chat Thread - #34/INFO]: [Not Secure] <Ruby> sleep
+[11:23:24] [Async Chat Thread - #34/INFO]: [Not Secure] <Ruby> bishes
+[11:23:26] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[11:23:26] [Server thread/INFO]: ImmortalGamer_ left the game
+[11:23:30] [User Authenticator #60/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[11:23:30] [Server thread/INFO]: ImmortalGamer_ joined the game
+[11:23:30] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:61097] logged in with entity id 425821 at ([world]-1950.9039712042875, 76.0, -1094.8153655998692)
+[11:23:30] [User Authenticator #60/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[11:23:30] [Server thread/INFO]: Pacchu joined the game
+[11:23:30] [Server thread/INFO]: Pacchu[/49.204.215.168:40162] logged in with entity id 425822 at ([world]-1944.0132718998245, 75.5625, -1103.5502004613268)
+[11:24:33] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:anvil
+[11:24:33] [Server thread/INFO]: [Pacchu: Gave 1 [Anvil] to Pacchu]
+[11:27:02] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:lead 2
+[11:27:02] [Server thread/INFO]: [Pacchu: Gave 2 [Lead] to Pacchu]
+[11:28:40] [Server thread/INFO]: Pacchu issued server command: /tp @e[type=minecraft:frog] Pacchu
+[11:28:40] [Server thread/INFO]: [Pacchu: Teleported 53 entities to Pacchu]
+[11:31:11] [Server thread/INFO]: Pacchu issued server command: /tp @e[type=minecraft:frog] Pacchu
+[11:31:11] [Server thread/INFO]: [Pacchu: Teleported 33 entities to Pacchu]
+[11:31:11] [Server thread/INFO]: Named entity Frog['Phrog'/416537, uuid='c43d4537-ffca-4116-b437-44424d30ba64', l='ServerLevel[world]', x=-1984.55, y=85.00, z=-1598.77, cpos=[-125, -100], tl=23082, v=true] died: Phrog was squished too much
+[11:32:40] [Server thread/INFO]: Pacchu issued server command: /tp @e[type=minecraft:frog,name=Phrog] Pacchu
+[11:32:48] [Server thread/INFO]: Pacchu issued server command: /tp @e[type=minecraft:frog,name=Phrog] Pacchu
+[11:32:58] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_
+[11:32:58] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ImmortalGamer_]
+[11:33:00] [Server thread/INFO]: Pacchu issued server command: /tp @e[type=minecraft:frog,name=Phrog] Pacchu
+[11:33:08] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[11:33:08] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[11:33:36] [Server thread/INFO]: Pacchu issued server command: /weather clear
+[11:33:36] [Server thread/INFO]: [Pacchu: Set the weather to clear]
+[11:34:29] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[11:34:29] [Server thread/INFO]: ImmortalGamer_ left the game
+[11:34:39] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[11:34:39] [Server thread/INFO]: Pacchu left the game
+[11:34:52] [User Authenticator #61/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[11:34:52] [Server thread/INFO]: ImmortalGamer_ joined the game
+[11:34:52] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:58925] logged in with entity id 430413 at ([world]-2054.3709135851363, 69.0, -1747.300000011921)
+[11:34:53] [User Authenticator #61/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[11:34:53] [Server thread/INFO]: Pacchu joined the game
+[11:34:53] [Server thread/INFO]: Pacchu[/49.204.215.168:39695] logged in with entity id 430451 at ([world]-1977.7132990624611, 86.0, -1616.923832500686)
+[11:35:00] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_ Pacchu
+[11:35:00] [Server thread/INFO]: [Pacchu: Teleported ImmortalGamer_ to Pacchu]
+[11:35:47] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:frog "Phrog"
+[11:36:21] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:frog ~ ~ ~ Phrog
+[11:36:26] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:frog ~ ~ ~ "Phrog"
+[11:36:44] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:frog ~ ~ ~ nameTag:Phrog
+[11:36:53] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:frog ~ ~ ~ <nameTag:Phrog>
+[11:37:02] [Server thread/INFO]: Scienceboi has made the advancement [Best Friends Forever]
+[11:37:20] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:frog "UwU" ~ ~ ~
+[11:37:25] [Server thread/INFO]: Ruby has made the advancement [Best Friends Forever]
+[11:38:06] [Server thread/INFO]: Pacchu issued server command: /tp @s[type=minecraft:frog] Rein
+[11:38:19] [Server thread/INFO]: Pacchu issued server command: /tp @e[type=minecraft:frog] Rein
+[11:38:19] [Server thread/INFO]: [Pacchu: Teleported 20 entities to Rein]
+[11:38:22] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[11:38:22] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[11:38:53] [Server thread/WARN]: Pacchu was kicked due to keepalive timeout!
+[11:38:53] [Server thread/INFO]: Pacchu lost connection: Timed out
+[11:38:54] [Server thread/INFO]: Pacchu left the game
+[11:38:57] [User Authenticator #62/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[11:38:57] [Server thread/INFO]: Pacchu joined the game
+[11:38:57] [Server thread/INFO]: Pacchu[/49.204.215.168:39869] logged in with entity id 431989 at ([world]-1959.5990988193128, 68.0, -1646.3049288679847)
+[11:39:50] [Server thread/INFO]: Rein issued server command: /msg ImmortalGamer_ annoying af
+[11:39:51] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[11:39:51] [Server thread/INFO]: ImmortalGamer_ left the game
+[11:39:54] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[11:39:54] [Server thread/INFO]: Pacchu left the game
+[11:40:13] [Async Chat Thread - #36/INFO]: [Not Secure] <Scienceboi> yeah
+[11:40:16] [User Authenticator #63/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[11:40:16] [Server thread/INFO]: Pacchu joined the game
+[11:40:16] [Server thread/INFO]: Pacchu[/49.204.215.168:39409] logged in with entity id 432283 at ([world]-1959.4131404857617, 68.0, -1646.5238815375692)
+[11:40:21] [Async Chat Thread - #36/INFO]: [Not Secure] <Scienceboi> room raided
+[11:40:24] [Async Chat Thread - #36/INFO]: [Not Secure] <Scienceboi> by parents
+[11:40:35] [User Authenticator #63/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[11:40:35] [Server thread/INFO]: ImmortalGamer_ joined the game
+[11:40:35] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:56004] logged in with entity id 432418 at ([world]-1958.1389683396653, 68.0, -1663.699999988079)
+[11:45:56] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[11:45:56] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[11:46:43] [Server thread/INFO]: Rein has made the advancement [Best Friends Forever]
+[11:46:52] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[11:46:52] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[11:47:20] [Server thread/INFO]: Pacchu issued server command: /kill ImmortalGamer_
+[11:47:20] [Server thread/INFO]: ImmortalGamer_ fell out of the world
+[11:47:20] [Server thread/INFO]: [Pacchu: Killed ImmortalGamer_]
+[11:47:25] [Server thread/INFO]: Pacchu issued server command: /tp Rein ImmortalGamer_
+[11:47:25] [Server thread/INFO]: [Pacchu: Teleported Rein to ImmortalGamer_]
+[11:48:25] [Server thread/INFO]: Pacchu issued server command: /tp Rein Pacchu
+[11:48:25] [Server thread/INFO]: [Pacchu: Teleported Rein to Pacchu]
+[11:48:28] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_ Pacchu
+[11:48:28] [Server thread/INFO]: [Pacchu: Teleported ImmortalGamer_ to Pacchu]
+[11:48:31] [Async Chat Thread - #38/INFO]: [Not Secure] <Scienceboi> room got raided again lol
+[11:49:19] [Async Chat Thread - #38/INFO]: [Not Secure] <Scienceboi> bacc
+[11:49:27] [Async Chat Thread - #38/INFO]: [Not Secure] <Scienceboi> what
+[11:49:45] [Async Chat Thread - #38/INFO]: [Not Secure] <Scienceboi> man village where :(
+[11:49:49] [Async Chat Thread - #38/INFO]: [Not Secure] <ImmortalGamer_> sus bhai
+[11:50:07] [Async Chat Thread - #38/INFO]: [Not Secure] <ImmortalGamer_> nigger
+[11:50:52] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[11:50:52] [Server thread/INFO]: ImmortalGamer_ left the game
+[11:50:55] [Server thread/INFO]: Pacchu issued server command: /give pa minecraft:white_bed
+[11:51:00] [Async Chat Thread - #38/INFO]: [Not Secure] <Scienceboi> slep
+[11:51:01] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:white_bed
+[11:51:01] [Server thread/INFO]: [Pacchu: Gave 1 [White Bed] to Pacchu]
+[11:51:20] [User Authenticator #64/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[11:51:20] [Server thread/INFO]: ImmortalGamer_ joined the game
+[11:51:20] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:56402] logged in with entity id 437288 at ([world]-2115.4672237538316, 65.0, -2145.5071808646885)
+[11:51:25] [Async Chat Thread - #39/INFO]: [Not Secure] <Scienceboi> yeah immortal i like racing as well
+[11:53:22] [Server thread/INFO]: Pacchu was slain by Rein
+[11:53:29] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[11:53:29] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[11:54:39] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:firework_rocket 12
+[11:54:39] [Server thread/INFO]: [Pacchu: Gave 12 [Firework Rocket] to Pacchu]
+[11:58:43] [Server thread/INFO]: Ruby issued server command: /
+[11:59:15] [Server thread/INFO]: Pacchu issued server command: /tp Rein
+[11:59:15] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
+[12:01:07] [Server thread/INFO]: Ruby issued server command: /
+[12:01:25] [Async Chat Thread - #40/INFO]: [Not Secure] <Scienceboi> -1096, 72, 4160
+[12:01:42] [Server thread/INFO]: Pacchu issued server command: /tp Pacchu ImmortalGamer_
+[12:01:42] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ImmortalGamer_]
+[12:01:46] [Server thread/INFO]: Pacchu issued server command: /tp Rein Pacchu
+[12:01:46] [Server thread/INFO]: [Pacchu: Teleported Rein to Pacchu]
+[12:02:52] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Ice Bucket Challenge]
+[12:03:33] [Async Chat Thread - #42/INFO]: [Not Secure] <ImmortalGamer_> loda
+[12:03:55] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[12:03:55] [Server thread/INFO]: ImmortalGamer_ left the game
+[12:04:01] [User Authenticator #65/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[12:04:01] [Server thread/INFO]: ImmortalGamer_ joined the game
+[12:04:01] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:64685] logged in with entity id 447690 at ([world]-2350.300000011921, 64.0, -2807.921533418251)
+[12:04:27] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_
+[12:04:27] [Server thread/INFO]: [Pacchu: Teleported Pacchu to ImmortalGamer_]
+[12:05:03] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.9729755783983207
+[12:06:09] [Server thread/INFO]: Pacchu issued server command: /seed
+[12:07:26] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.041273061684864
