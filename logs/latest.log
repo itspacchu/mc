@@ -1,258 +1,885 @@
-[06:11:35] [User Authenticator #88/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
-[06:11:35] [Server thread/INFO]: Ruby joined the game
-[06:11:35] [Server thread/INFO]: Ruby[/49.37.113.54:26126] logged in with entity id 586203 at ([world]-753.2723068860395, 89.0, -2161.8772425117445)
-[06:12:03] [Server thread/INFO]: Ruby lost connection: Timed out
-[06:12:03] [Server thread/INFO]: Ruby left the game
-[06:12:39] [User Authenticator #89/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
-[06:12:40] [Server thread/INFO]: Ruby joined the game
-[06:12:40] [Server thread/INFO]: Ruby[/49.37.113.54:52315] logged in with entity id 586513 at ([world]-753.2723068860395, 89.0, -2161.8772425117445)
-[06:12:52] [User Authenticator #89/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
-[06:12:52] [Server thread/INFO]: Scienceboi joined the game
-[06:12:52] [Server thread/INFO]: Scienceboi[/45.124.146.105:56747] logged in with entity id 586838 at ([world]-756.2843305226547, 89.0, -2163.4927821487872)
-[07:05:09] [Server thread/INFO]: Ruby issued server command: /
-[07:06:12] [Server thread/INFO]: Scienceboi drowned
-[07:09:05] [Server thread/INFO]: Scienceboi drowned
-[07:10:30] [Server thread/INFO]: Scienceboi drowned
-[07:11:20] [Server thread/INFO]: Scienceboi drowned
-[07:11:26] [Server thread/INFO]: Ruby drowned
-[07:24:52] [Server thread/INFO]: Ruby has made the advancement [Who is Cutting Onions?]
-[07:44:06] [Server thread/INFO]: Villager EntityVillager['Villager'/609076, uuid='990cbebc-5390-4ed0-9748-c868edad4f45', l='ServerLevel[world]', x=-510.13, y=99.00, z=-5134.75, cpos=[-32, -321], tl=5083, v=true] died, message: 'Villager was slain by Scienceboi'
-[08:01:50] [Server thread/INFO]: Scienceboi lost connection: Disconnected
-[08:01:50] [Server thread/INFO]: Scienceboi left the game
-[08:07:13] [Server thread/INFO]: Ruby lost connection: Disconnected
-[08:07:13] [Server thread/INFO]: Ruby left the game
-[08:54:07] [User Authenticator #90/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[08:54:08] [Server thread/INFO]: Rein joined the game
-[08:54:08] [Server thread/INFO]: Rein[/49.36.233.37:62974] logged in with entity id 618684 at ([world]-1057.637328501481, 65.0, -111.79093642131039)
-[08:56:45] [Server thread/INFO]: Rein lost connection: Disconnected
-[08:56:45] [Server thread/INFO]: Rein left the game
-[08:59:18] [User Authenticator #91/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
-[08:59:18] [Server thread/INFO]: WakeAwake joined the game
-[08:59:18] [Server thread/INFO]: WakeAwake[/49.37.65.28:62653] logged in with entity id 619076 at ([world]-483.0201881948598, 66.0, -407.63203180445583)
-[09:00:14] [User Authenticator #91/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[09:00:14] [Server thread/INFO]: Rein joined the game
-[09:00:14] [Server thread/INFO]: Rein[/49.36.233.37:61407] logged in with entity id 619942 at ([world]-1064.5039091290141, 64.0, -88.11331560685787)
-[09:01:22] [Server thread/INFO]: Rein lost connection: Disconnected
-[09:01:22] [Server thread/INFO]: Rein left the game
-[09:01:36] [Server thread/INFO]: WakeAwake fell from a high place
-[09:02:12] [User Authenticator #92/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[09:02:12] [Server thread/INFO]: Rein joined the game
-[09:02:12] [Server thread/INFO]: Rein[/49.36.233.37:56204] logged in with entity id 620760 at ([world]-1064.5039091290141, 64.0, -88.11331560685787)
-[09:06:06] [Server thread/INFO]: WakeAwake lost connection: Disconnected
-[09:06:07] [Server thread/INFO]: WakeAwake left the game
-[09:07:52] [User Authenticator #93/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
-[09:07:52] [Server thread/INFO]: WakeAwake joined the game
-[09:07:52] [Server thread/INFO]: WakeAwake[/49.37.65.28:63249] logged in with entity id 622434 at ([world]-287.8318004296797, 104.0, -277.5955610947172)
-[09:12:19] [Server thread/INFO]: WakeAwake tried to swim in lava
-[09:12:37] [Server thread/INFO]: WakeAwake tried to swim in lava
-[09:16:57] [User Authenticator #94/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
-[09:16:58] [Server thread/INFO]: Ruby joined the game
-[09:16:58] [Server thread/INFO]: Ruby[/49.37.113.54:51710] logged in with entity id 628914 at ([world]1348.0648912559195, 77.0, -5812.149479898024)
-[09:17:58] [Server thread/INFO]: Rein fell from a high place
-[09:21:53] [Server thread/INFO]: Ruby lost connection: Disconnected
-[09:21:53] [Server thread/INFO]: Ruby left the game
-[09:24:02] [Tuinity Chunk System Worker #0/ERROR]: Detected setBlock in a far chunk [-157, 0], pos: BlockPosition{x=-2507, y=-2, z=0}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
-[09:26:33] [Server thread/INFO]: WakeAwake lost connection: Disconnected
-[09:26:33] [Server thread/INFO]: WakeAwake left the game
-[09:31:34] [Server thread/INFO]: Rein has made the advancement [We Need to Go Deeper]
-[09:36:21] [User Authenticator #95/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
-[09:36:21] [Server thread/INFO]: Scienceboi joined the game
-[09:36:21] [Server thread/INFO]: Scienceboi[/45.124.146.105:64028] logged in with entity id 638099 at ([world]1336.5, 68.0, -5767.5)
-[09:36:39] [User Authenticator #95/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
-[09:36:39] [Server thread/INFO]: Ruby joined the game
-[09:36:39] [Server thread/INFO]: Ruby[/49.37.113.54:51850] logged in with entity id 638362 at ([world]1369.6075190204342, 77.0, -5837.427722888731)
-[09:43:29] [Server thread/INFO]: Rein has made the advancement [Ice Bucket Challenge]
-[09:43:34] [Server thread/INFO]: Rein has made the advancement [Oh Shiny]
-[09:44:38] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.6222117360119017
-[09:44:38] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.6222117360119017
-[09:44:38] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.6222117360119017
-[09:44:38] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.6222117360119017
-[09:44:38] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 3.6222117360119017
-[09:46:05] [Server thread/INFO]: Rein tried to swim in lava to escape Ghast
-[09:46:13] [Server thread/INFO]: Rein lost connection: Disconnected
-[09:46:13] [Server thread/INFO]: Rein left the game
-[09:47:17] [User Authenticator #96/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[09:47:17] [Server thread/INFO]: Rein joined the game
-[09:47:17] [Server thread/INFO]: Rein[/49.36.233.37:58214] logged in with entity id 641333 at ([world]-1061.8836626633063, 64.0, -112.61855189960816)
-[09:58:40] [Server thread/INFO]: Rein lost connection: Disconnected
-[09:58:40] [Server thread/INFO]: Rein left the game
-[09:59:44] [User Authenticator #97/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[09:59:45] [Server thread/INFO]: Rein joined the game
-[09:59:45] [Server thread/INFO]: Rein[/49.36.233.37:58692] logged in with entity id 652847 at ([world]-3070.699999988079, 62.875, -110.30000001192093)
-[10:04:33] [Server thread/INFO]: Ruby drowned
-[10:06:55] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 2.5325395213122497
-[10:07:59] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 11.90581195402171
-[10:09:17] [Server thread/INFO]: Villager EntityVillager['Villager'/663078, uuid='3ae56cc3-ae2b-4a7c-b2ed-2c1f54e343c0', l='ServerLevel[world]', x=-5595.37, y=64.00, z=-322.72, cpos=[-350, -21], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[10:21:59] [Async Chat Thread - #78/INFO]: [Not Secure] <Rein> SLEEEEEEEEEEEEP
-[10:22:04] [Async Chat Thread - #78/INFO]: [Not Secure] <Rein> Cacacacacacacacacacacacaca
-[10:23:29] [Server thread/INFO]: Ruby tried to swim in lava
-[10:30:24] [User Authenticator #98/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
-[10:30:24] [Server thread/INFO]: ImmortalGamer_ joined the game
-[10:30:24] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:49702] logged in with entity id 689292 at ([world]-1604.8150836248128, 83.93050451123717, 3029.4385245082776)
-[10:31:11] [Server thread/INFO]: ImmortalGamer_ drowned
-[10:32:15] [Server thread/INFO]: Scienceboi issued server command: /skin remove
-[10:32:25] [Server thread/INFO]: Rein issued server command: /skinsrestorer:skin
-[10:32:26] [Server thread/INFO]: Ruby issued server command: /skin
-[10:32:47] [Server thread/INFO]: Rein issued server command: /skinsrestorer:skins
-[10:32:56] [Async Chat Thread - #80/INFO]: [Not Secure] <Scienceboi> slep
-[10:42:19] [Server thread/INFO]: Ruby drowned
-[10:44:05] [Async Chat Thread - #82/INFO]: [Not Secure] <Scienceboi> sleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeepppppppppppppppppppppppppppp
-[10:44:18] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
-[10:44:18] [Server thread/INFO]: ImmortalGamer_ left the game
-[10:45:05] [User Authenticator #99/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
-[10:45:05] [Server thread/INFO]: ImmortalGamer_ joined the game
-[10:45:05] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:64113] logged in with entity id 706720 at ([world]136.94986358439112, 100.0, -391.76959829605875)
-[10:46:13] [Server thread/INFO]: ImmortalGamer_ fell from a high place
-[10:46:31] [Server thread/WARN]: Boat (vehicle of Rein) moved too quickly! 4.550280569103052,0.0,19.790549590019964
-[10:46:31] [Server thread/WARN]: Boat (vehicle of Rein) moved too quickly! 4.654791198052408,0.0,20.17631351557111
-[10:46:31] [Server thread/WARN]: Boat (vehicle of Rein) moved too quickly! 4.75521265964926,0.0,20.562991266026074
-[10:46:31] [Server thread/WARN]: Boat (vehicle of Rein) moved too quickly! 4.851096777356361,0.0,20.950620108047588
-[10:46:31] [Server thread/WARN]: Boat (vehicle of Rein) moved too quickly! 4.942121396175935,0.0,21.339205086886068
-[10:46:52] [Server thread/INFO]: Ruby lost connection: Disconnected
-[10:46:52] [Server thread/INFO]: Ruby left the game
-[10:46:54] [Server thread/INFO]: Rein lost connection: Disconnected
-[10:46:54] [Server thread/INFO]: Rein left the game
-[10:46:56] [User Authenticator #100/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[10:46:56] [Server thread/INFO]: Rein joined the game
-[10:46:56] [Server thread/INFO]: Rein[/49.36.233.37:65095] logged in with entity id 710066 at ([world]-9869.91444251572, 62.07326432466507, 3700.960847589622)
-[10:47:41] [Server thread/WARN]: Rein was kicked due to keepalive timeout!
-[10:47:41] [Server thread/INFO]: Rein lost connection: Timed out
-[10:47:41] [Server thread/INFO]: Rein left the game
-[10:48:23] [User Authenticator #101/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[10:48:23] [Server thread/INFO]: Rein joined the game
-[10:48:23] [Server thread/INFO]: Rein[/49.36.233.37:65137] logged in with entity id 710645 at ([world]-9860.153848423844, 61.99486432313919, 3717.4130087427548)
-[10:49:08] [Server thread/WARN]: Rein was kicked due to keepalive timeout!
-[10:49:08] [Server thread/INFO]: Rein lost connection: Timed out
-[10:49:08] [Server thread/INFO]: Rein left the game
-[10:49:41] [User Authenticator #102/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[10:49:41] [Server thread/INFO]: Rein joined the game
-[10:49:41] [Server thread/INFO]: Rein[/49.36.233.37:59397] logged in with entity id 711214 at ([world]-9860.153848423844, 63.08576431274414, 3717.4130087427548)
-[10:50:26] [Server thread/WARN]: Rein was kicked due to keepalive timeout!
-[10:50:26] [Server thread/INFO]: Rein lost connection: Timed out
-[10:50:26] [Server thread/INFO]: Rein left the game
-[10:50:59] [User Authenticator #103/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[10:50:59] [Server thread/INFO]: Rein joined the game
-[10:50:59] [Server thread/INFO]: Rein[/49.36.233.37:59442] logged in with entity id 711773 at ([world]-9860.083775475814, 63.08576431274414, 3717.498508740691)
-[11:03:48] [Server thread/INFO]: Scienceboi has made the advancement [Tactical Fishing]
-[11:04:48] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Tactical Fishing]
-[11:07:02] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
-[11:07:02] [Server thread/INFO]: ImmortalGamer_ left the game
-[11:07:30] [User Authenticator #104/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
-[11:07:30] [Server thread/INFO]: ImmortalGamer_ joined the game
-[11:07:30] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:57415] logged in with entity id 725601 at ([world]-921.6440671260447, 62.0, 138.84970733018562)
-[11:07:34] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
-[11:07:34] [Server thread/INFO]: ImmortalGamer_ left the game
-[11:07:38] [User Authenticator #104/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
-[11:07:38] [Server thread/INFO]: ImmortalGamer_ joined the game
-[11:07:38] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:57418] logged in with entity id 725639 at ([world]-921.6440671260447, 62.0, 138.84970733018562)
-[11:15:35] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
-[11:15:35] [Server thread/INFO]: ImmortalGamer_ left the game
-[11:16:50] [User Authenticator #105/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
-[11:16:50] [Server thread/INFO]: ImmortalGamer_ joined the game
-[11:16:50] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:64694] logged in with entity id 734113 at ([world]-1084.01168492359, 63.0, -135.95292269260705)
-[11:16:52] [User Authenticator #105/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
-[11:16:52] [Server thread/INFO]: Pacchu joined the game
-[11:16:52] [Server thread/INFO]: Pacchu[/49.36.233.37:50146] logged in with entity id 734225 at ([world]-2696.2874358684016, 70.0, -5935.206701978841)
-[11:17:11] [Server thread/INFO]: Pacchu issued server command: /tp Rein
-[11:17:11] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
-[11:17:26] [Server thread/INFO]: Pacchu issued server command: /locate biome minecraft:desert
-[11:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6208ms or 124 ticks behind
-[11:17:41] [Server thread/INFO]: Pacchu issued server command: /tp @s -15199 62 3138
-[11:17:41] [Server thread/INFO]: [Pacchu: Teleported Pacchu to -15198.500000, 62.000000, 3138.500000]
-[11:17:51] [Server thread/INFO]: Pacchu issued server command: /gamemode creative
-[11:17:51] [Server thread/INFO]: [Pacchu: Set own game mode to Creative Mode]
-[11:18:38] [Server thread/INFO]: Pacchu issued server command: /seed
-[11:19:24] [Server thread/INFO]: Pacchu issued server command: /tp Rein Pacchu
-[11:19:24] [Server thread/INFO]: [Pacchu: Teleported Rein to Pacchu]
-[11:19:38] [Server thread/INFO]: Pacchu issued server command: /kill ImmortalGamer_
-[11:19:38] [Server thread/INFO]: ImmortalGamer_ fell out of the world
-[11:19:38] [Server thread/INFO]: [Pacchu: Killed ImmortalGamer_]
-[11:19:47] [Server thread/INFO]: Pacchu issued server command: /tp ImmortalGamer_ Rein
-[11:19:47] [Server thread/INFO]: [Pacchu: Teleported ImmortalGamer_ to Rein]
-[11:20:10] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> hello god
-[11:20:16] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> is catto the real god?
-[11:20:20] [Async Chat Thread - #84/INFO]: [Not Secure] <Pacchu> HI
-[11:20:29] [Async Chat Thread - #84/INFO]: [Not Secure] <Pacchu> DOG
-[11:20:33] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> fuck off god
-[11:20:47] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
-[11:20:47] [Server thread/INFO]: ImmortalGamer_ left the game
-[11:20:52] [Server thread/INFO]: Pacchu lost connection: Disconnected
-[11:20:52] [Server thread/INFO]: Pacchu left the game
-[11:20:54] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:20:59] [Server thread/INFO]: [Not Secure] [Rcon] uwu
-[11:21:00] [User Authenticator #106/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
-[11:21:00] [Server thread/INFO]: Pacchu joined the game
-[11:21:00] [Server thread/INFO]: Pacchu[/49.36.233.37:50652] logged in with entity id 736803 at ([world]-15210.676902219728, 70.49386982771217, 2949.6442025203055)
-[11:21:08] [User Authenticator #106/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
-[11:21:08] [Server thread/INFO]: ImmortalGamer_ joined the game
-[11:21:08] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:50923] logged in with entity id 736850 at ([world]-15210.381896239962, 68.0, 2945.0973960609776)
-[11:21:23] [Server thread/INFO]: [Not Secure] [Rcon] uwu
-[11:21:26] [Server thread/INFO]: Pacchu issued server command: /tp Scienceboi
-[11:21:26] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Scienceboi]
-[11:21:27] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> the fuck
-[11:21:33] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> kys Rcon
-[11:21:38] [Server thread/INFO]: [Not Secure] [Rcon] I am the cattogod
-[11:21:45] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> no fuck off
-[11:21:50] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> ik the catto god
-[11:21:55] [Async Chat Thread - #84/INFO]: [Not Secure] <ImmortalGamer_> he chill with da boat
-[11:21:58] [Server thread/INFO]: Pacchu issued server command: /tp Scienceboi
-[11:21:58] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Scienceboi]
-[11:22:33] [Server thread/INFO]: Pacchu issued server command: /kill Pacchu
-[11:22:33] [Server thread/INFO]: Pacchu fell out of the world
-[11:22:33] [Server thread/INFO]: [Pacchu: Killed Pacchu]
-[11:22:44] [Server thread/INFO]: Pacchu issued server command: /locate biome minecraft:desert
-[11:22:53] [Server thread/INFO]: Pacchu issued server command: /tp @s -3334 74 -2454
-[11:22:53] [Server thread/INFO]: [Pacchu: Teleported Pacchu to -3333.500000, 74.000000, -2453.500000]
-[11:23:30] [Server thread/INFO]: Pacchu issued server command: /kill ImmortalGamer_
-[11:23:30] [Server thread/INFO]: ImmortalGamer_ fell out of the world
-[11:23:30] [Server thread/INFO]: [Pacchu: Killed ImmortalGamer_]
-[11:23:35] [Server thread/INFO]: Pacchu issued server command: /tp Rein
-[11:23:35] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Rein]
-[11:23:59] [Server thread/INFO]: Pacchu issued server command: /tp Rein ImmortalGamer_
-[11:23:59] [Server thread/INFO]: [Pacchu: Teleported Rein to ImmortalGamer_]
-[11:24:50] [Server thread/INFO]: [Not Secure] [Rcon] im god
-[11:24:59] [Server thread/INFO]: [Rcon: Set the weather to clear]
-[11:25:00] [Server thread/INFO]: Pacchu issued server command: /weather clear
-[11:25:00] [Server thread/INFO]: [Pacchu: Set the weather to clear]
-[11:27:41] [Async Chat Thread - #87/INFO]: [Not Secure] <Pacchu> 1900
-[11:28:01] [Async Chat Thread - #87/INFO]: [Not Secure] <Pacchu> 368
-[11:32:19] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[11:32:34] [Async Chat Thread - #89/INFO]: [Not Secure] <Scienceboi> sleeeeeeeeeeeeeeeeeeeeep]
-[11:32:41] [Async Chat Thread - #89/INFO]: [Not Secure] <ImmortalGamer_> -134 -17
-[11:32:46] [Server thread/INFO]: Rein lost connection: Disconnected
-[11:32:46] [Server thread/INFO]: Rein left the game
-[11:33:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[11:33:50] [Server thread/INFO]: Scienceboi was blown up by Creeper
-[11:35:50] [Server thread/WARN]: Scienceboi moved too quickly! 1.3957712803713775,2.0,-9.762564700878187
-[11:39:35] [Async Chat Thread - #91/INFO]: [Not Secure] <ImmortalGamer_> wtf
-[11:39:53] [Async Chat Thread - #91/INFO]: [Not Secure] <ImmortalGamer_> bro this kid giving me his sob story
-[11:39:58] [Async Chat Thread - #91/INFO]: [Not Secure] <ImmortalGamer_> ;-; help
-[11:40:05] [Async Chat Thread - #91/INFO]: [Not Secure] <Pacchu> cut call ez
-[11:41:50] [Async Chat Thread - #93/INFO]: [Not Secure] <ImmortalGamer_> bruh this guy ><
-[11:41:57] [Server thread/INFO]: Pacchu has completed the challenge [Subspace Bubble]
-[11:42:03] [Async Chat Thread - #93/INFO]: [Not Secure] <Scienceboi> kill him
-[11:42:08] [Async Chat Thread - #93/INFO]: [Not Secure] <Pacchu> jeez
-[11:42:08] [Async Chat Thread - #93/INFO]: [Not Secure] <Scienceboi> end his suufering
-[11:42:22] [Async Chat Thread - #93/INFO]: [Not Secure] <Pacchu> tune idhar ka kyu diya tha?
-[11:42:26] [Async Chat Thread - #93/INFO]: [Not Secure] <Pacchu> upar ka deta
-[11:42:28] [Async Chat Thread - #93/INFO]: [Not Secure] <Pacchu> bruv
-[11:44:17] [Async Chat Thread - #95/INFO]: [Not Secure] <Pacchu> sleep
-[11:44:37] [Async Chat Thread - #95/INFO]: [Not Secure] <ImmortalGamer_> kill me
-[11:44:43] [Async Chat Thread - #95/INFO]: [Not Secure] <Scienceboi> kill him
-[11:44:45] [Server thread/INFO]: Pacchu issued server command: /kill ImmortalGamer_
-[11:44:45] [Server thread/INFO]: ImmortalGamer_ fell out of the world
-[11:44:45] [Server thread/INFO]: [Pacchu: Killed ImmortalGamer_]
-[11:44:46] [Async Chat Thread - #95/INFO]: [Not Secure] <Scienceboi> be better
-[11:46:15] [Server thread/INFO]: Scienceboi has made the advancement [We Need to Go Deeper]
-[11:49:01] [Async Chat Thread - #97/INFO]: [Not Secure] <ImmortalGamer_> god send hhelp
-[11:50:38] [Server thread/INFO]: Scienceboi has completed the challenge [Hot Tourist Destinations]
-[11:52:26] [Server thread/INFO]: Scienceboi has completed the challenge [Subspace Bubble]
-[11:53:52] [Server thread/INFO]: Pacchu issued server command: /tp Scienceboi
-[11:53:52] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Scienceboi]
-[11:54:22] [Server thread/INFO]: Pacchu issued server command: /gamemode survival
-[11:54:22] [Server thread/INFO]: [Pacchu: Set own game mode to Survival Mode]
-[11:54:24] [Server thread/INFO]: Pacchu lost connection: Disconnected
-[11:54:24] [Server thread/INFO]: Pacchu left the game
-[11:54:49] [User Authenticator #107/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
-[11:54:49] [Server thread/INFO]: Rein joined the game
-[11:54:49] [Server thread/INFO]: Rein[/49.36.233.37:50185] logged in with entity id 752088 at ([world]-1078.4623718574949, 63.0, -138.62579356695585)
+[05:24:54] [User Authenticator #15/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[05:24:54] [Server thread/INFO]: Scienceboi joined the game
+[05:24:55] [Server thread/INFO]: Scienceboi[/45.124.146.105:63361] logged in with entity id 217875 at ([world]-901.8988506793124, 64.0, 133.30000001192093)
+[05:37:47] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[05:37:47] [Server thread/INFO]: Scienceboi left the game
+[05:38:57] [User Authenticator #16/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[05:38:57] [Server thread/INFO]: Scienceboi joined the game
+[05:38:58] [Server thread/INFO]: Scienceboi[/45.124.146.105:65473] logged in with entity id 219600 at ([world]-903.5798450839093, 63.0, 127.8591586909997)
+[05:39:17] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[05:39:17] [Server thread/INFO]: Scienceboi left the game
+[05:39:19] [User Authenticator #16/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[05:39:19] [Server thread/INFO]: Scienceboi joined the game
+[05:39:19] [Server thread/INFO]: Scienceboi[/45.124.146.105:65474] logged in with entity id 219656 at ([world]-903.5798450839093, 63.0, 127.8591586909997)
+[05:39:39] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[05:39:39] [Server thread/INFO]: Scienceboi left the game
+[05:48:16] [User Authenticator #17/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[05:48:16] [Server thread/INFO]: Scienceboi joined the game
+[05:48:16] [Server thread/INFO]: Scienceboi[/45.124.146.105:59387] logged in with entity id 219707 at ([world]-902.0234668693633, 63.0, 126.59978503735357)
+[05:48:26] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[05:48:26] [Server thread/INFO]: Scienceboi left the game
+[08:14:29] [User Authenticator #18/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[08:14:30] [Server thread/INFO]: Scienceboi joined the game
+[08:14:30] [Server thread/INFO]: Scienceboi[/45.124.146.105:56426] logged in with entity id 219798 at ([world]-902.0234668693633, 63.0, 126.59978503735357)
+[08:14:59] [Server thread/INFO]: Scienceboi was shot by Pillager
+[08:15:24] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[08:15:24] [Server thread/INFO]: Scienceboi left the game
+[08:15:27] [User Authenticator #18/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[08:15:27] [Server thread/INFO]: Scienceboi joined the game
+[08:15:27] [Server thread/INFO]: Scienceboi[/45.124.146.105:51611] logged in with entity id 219971 at ([world]-903.305863387181, 63.0, 130.6023061088055)
+[08:15:31] [Server thread/INFO]: Scienceboi was shot by Pillager
+[08:15:57] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[08:15:57] [Server thread/INFO]: Scienceboi left the game
+[08:16:03] [User Authenticator #18/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[08:16:03] [Server thread/INFO]: Scienceboi joined the game
+[08:16:03] [Server thread/INFO]: Scienceboi[/45.124.146.105:51616] logged in with entity id 220010 at ([world]-903.305863387181, 63.0, 130.6023061088055)
+[08:17:26] [Server thread/INFO]: Scienceboi was shot by Pillager
+[08:18:45] [Server thread/INFO]: Scienceboi was shot by Pillager
+[08:19:41] [Server thread/INFO]: Scienceboi was shot by Pillager
+[08:20:01] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[08:20:01] [Server thread/INFO]: Scienceboi left the game
+[08:21:30] [User Authenticator #19/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[08:21:30] [Server thread/INFO]: Scienceboi joined the game
+[08:21:30] [Server thread/INFO]: Scienceboi[/45.124.146.105:57379] logged in with entity id 220686 at ([world]-888.0133999435378, 63.0, 127.64693504540381)
+[08:22:03] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[08:22:03] [Server thread/INFO]: Scienceboi left the game
+[09:57:50] [User Authenticator #20/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[09:57:51] [Server thread/INFO]: Rein joined the game
+[09:57:51] [Server thread/INFO]: Rein[/49.36.233.37:58962] logged in with entity id 220800 at ([world]-1458.1027468307966, 66.0, 398.85175572977624)
+[10:02:25] [Server thread/WARN]: Rein moved too quickly! 0.663049429118928,-0.5040129017765196,10.07688232378024
+[10:11:36] [Server thread/INFO]: Rein was impaled by Drowned
+[10:11:41] [User Authenticator #21/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:11:41] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:11:41] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:64203] logged in with entity id 223372 at ([world]-1467.9177544602453, 67.0, 410.27751492039886)
+[10:23:18] [Async Chat Thread - #47/INFO]: [Not Secure] <Rein> -2260 347
+[10:24:04] [User Authenticator #22/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:24:04] [Server thread/INFO]: Scienceboi joined the game
+[10:24:04] [Server thread/INFO]: Scienceboi[/45.124.146.105:58580] logged in with entity id 227660 at ([world]-903.5, 63.0, 130.5)
+[10:25:57] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[10:25:57] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[10:26:08] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[10:26:15] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[10:26:15] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[10:26:38] [Server thread/INFO]: Rein fell from a high place
+[10:26:51] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[10:26:51] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[10:26:55] [Server thread/INFO]: Scienceboi drowned
+[10:27:05] [Server thread/INFO]: ImmortalGamer_ issued server command: /locate biome minecraft:lush_caves
+[10:31:50] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[10:31:50] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[10:31:50] [Server thread/INFO]: Scienceboi left the game
+[10:32:18] [User Authenticator #23/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:32:18] [Server thread/INFO]: Scienceboi joined the game
+[10:32:18] [Server thread/INFO]: Scienceboi[/45.124.146.105:55994] logged in with entity id 231023 at ([world]-900.770739131124, 63.0, 131.4749174246052)
+[10:33:17] [Server thread/INFO]: ImmortalGamer_ has made the advancement [The Cutest Predator]
+[10:38:13] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[10:38:13] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[10:38:16] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[10:38:16] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[10:38:16] [Server thread/INFO]: Scienceboi left the game
+[10:38:31] [User Authenticator #24/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:38:31] [Server thread/INFO]: Scienceboi joined the game
+[10:38:31] [Server thread/INFO]: Scienceboi[/45.124.146.105:58085] logged in with entity id 232849 at ([world]-1091.4315016490007, 61.99486432313919, -80.9494449080203)
+[10:39:16] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[10:39:16] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[10:39:16] [Server thread/INFO]: Scienceboi left the game
+[10:39:31] [User Authenticator #24/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:39:31] [Server thread/INFO]: Scienceboi joined the game
+[10:39:31] [Server thread/INFO]: Scienceboi[/45.124.146.105:58089] logged in with entity id 233202 at ([world]-1087.9135358683227, 61.99486432313919, -108.19231660983128)
+[10:40:13] [Server thread/INFO]: ImmortalGamer_ lost connection: Timed out
+[10:40:13] [Server thread/INFO]: ImmortalGamer_ left the game
+[10:40:34] [User Authenticator #25/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[10:40:34] [Server thread/INFO]: ImmortalGamer_ joined the game
+[10:40:34] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:58379] logged in with entity id 233644 at ([world]-2221.109203336916, -25.0, 257.86210338568844)
+[10:40:46] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[10:40:46] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[10:40:46] [Server thread/INFO]: Scienceboi left the game
+[10:40:56] [User Authenticator #25/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:40:56] [Server thread/INFO]: Scienceboi joined the game
+[10:40:56] [Server thread/INFO]: Scienceboi[/45.124.146.105:58094] logged in with entity id 233715 at ([world]-1079.5, 49.0, -134.5)
+[10:41:41] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[10:41:41] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[10:41:42] [Server thread/INFO]: Scienceboi left the game
+[10:41:59] [User Authenticator #26/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:41:59] [Server thread/INFO]: Scienceboi joined the game
+[10:41:59] [Server thread/INFO]: Scienceboi[/45.124.146.105:58097] logged in with entity id 234045 at ([world]-1079.5, 49.0, -134.5)
+[10:42:29] [Server thread/INFO]: Rein was shot by Skeleton
+[10:42:48] [Server thread/INFO]: ImmortalGamer_ was shot by Skeleton
+[10:43:21] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[10:43:21] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[10:43:29] [Server thread/INFO]: ImmortalGamer_ issued server command: /kill ImmortalGamer_
+[10:43:29] [Server thread/INFO]: ImmortalGamer_ fell out of the world
+[10:43:29] [Server thread/INFO]: [ImmortalGamer_: Killed ImmortalGamer_]
+[10:43:35] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[10:43:35] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[10:45:50] [Async Chat Thread - #49/INFO]: [Not Secure] <ImmortalGamer_> ax
+[10:49:29] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant Rein minecraft:efficiency 5
+[10:49:33] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant Rein minecraft:efficiency 4
+[10:49:36] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant Rein minecraft:efficiency 2
+[10:53:40] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[10:53:40] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[10:53:40] [Server thread/INFO]: Scienceboi left the game
+[10:53:44] [User Authenticator #27/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[10:53:44] [Server thread/INFO]: Scienceboi joined the game
+[10:53:44] [Server thread/INFO]: Scienceboi[/45.124.146.105:53169] logged in with entity id 241704 at ([world]-289.7955027387157, 114.0, -236.60312572954535)
+[10:55:34] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[10:55:34] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[10:55:47] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[10:55:47] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[10:56:48] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[10:56:48] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[10:58:08] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[10:58:08] [Server thread/INFO]: Scienceboi left the game
+[11:02:35] [Server thread/INFO]: Rein has made the advancement [Hot Stuff]
+[11:02:36] [Server thread/INFO]: ImmortalGamer_ has made the advancement [Hot Stuff]
+[11:02:42] [Server thread/INFO]: Rein tried to swim in lava to escape Ghast
+[11:02:43] [Server thread/INFO]: ImmortalGamer_ tried to swim in lava
+[11:03:28] [Server thread/INFO]: ImmortalGamer_ tried to swim in lava
+[11:03:30] [Server thread/INFO]: Rein tried to swim in lava
+[11:04:05] [Server thread/INFO]: Rein tried to swim in lava to escape Ghast
+[11:04:14] [Server thread/INFO]: ImmortalGamer_ was fireballed by Ghast
+[11:04:41] [Server thread/INFO]: Rein tried to swim in lava to escape Ghast
+[11:05:14] [Server thread/INFO]: ImmortalGamer_ tried to swim in lava to escape Ghast
+[11:05:54] [Server thread/INFO]: Rein tried to swim in lava
+[11:05:55] [Server thread/INFO]: ImmortalGamer_ tried to swim in lava
+[11:06:24] [Server thread/INFO]: ImmortalGamer_ tried to swim in lava
+[11:06:26] [Server thread/INFO]: Rein tried to swim in lava to escape Ghast
+[11:12:46] [User Authenticator #28/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:12:46] [Server thread/INFO]: Scienceboi joined the game
+[11:12:46] [Server thread/INFO]: Scienceboi[/45.124.146.105:64747] logged in with entity id 247229 at ([world]-297.3184345835495, 106.0, -294.35458818861116)
+[11:13:26] [Server thread/INFO]: ImmortalGamer_ issued server command: /locate structure minecraft:village_desert
+[11:14:16] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[11:14:16] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[11:14:16] [Server thread/INFO]: Scienceboi left the game
+[11:21:13] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:shears
+[11:21:13] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Shears] to ImmortalGamer_]
+[11:21:50] [User Authenticator #29/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:21:51] [Server thread/INFO]: Scienceboi joined the game
+[11:21:51] [Server thread/INFO]: Scienceboi[/45.124.146.110:58965] logged in with entity id 249495 at ([world]-299.5, 106.0, -298.5)
+[11:23:01] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[11:23:01] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[11:23:01] [Server thread/INFO]: Scienceboi left the game
+[11:23:26] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:white_wool 40
+[11:23:26] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [White Wool] to ImmortalGamer_]
+[11:28:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:carrot 80
+[11:28:17] [Server thread/INFO]: [ImmortalGamer_: Gave 80 [Carrot] to ImmortalGamer_]
+[11:31:48] [User Authenticator #30/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:31:48] [Server thread/INFO]: Scienceboi joined the game
+[11:31:48] [Server thread/INFO]: Scienceboi[/45.124.146.110:62229] logged in with entity id 252085 at ([world]-299.13189135373636, 108.0, -295.21167253305606)
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.2957720908144523
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.431822227326748
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.4705859180666181
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.5427749803487387
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.643270125091135
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.7672865045111195
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 0.9104421770287559
+[11:36:05] [Server thread/WARN]: Boat (vehicle of Scienceboi) moved wrongly! 1.050846212463
+[11:36:43] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[11:36:43] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[11:36:43] [Server thread/INFO]: Scienceboi left the game
+[11:36:50] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:sticky_piston
+[11:36:50] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Sticky Piston] to ImmortalGamer_]
+[11:37:04] [User Authenticator #31/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:37:04] [Server thread/INFO]: Scienceboi joined the game
+[11:37:04] [Server thread/INFO]: Scienceboi[/45.124.146.110:62271] logged in with entity id 255016 at ([world]-1037.692137380969, 61.99486432313919, 5.658327489013812)
+[11:38:18] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[11:38:18] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[11:38:35] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:ink_sac 20
+[11:38:35] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [Ink Sac] to ImmortalGamer_]
+[11:38:43] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[11:38:43] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[11:38:56] [Server thread/INFO]: ImmortalGamer_ issued server command: /kill ImmortalGamer_
+[11:38:56] [Server thread/INFO]: ImmortalGamer_ fell out of the world
+[11:38:56] [Server thread/INFO]: [ImmortalGamer_: Killed ImmortalGamer_]
+[11:39:56] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:dispenser
+[11:39:56] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Dispenser] to ImmortalGamer_]
+[11:40:33] [User Authenticator #32/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[11:40:34] [Server thread/INFO]: Ruby joined the game
+[11:40:34] [Server thread/INFO]: Ruby[/49.37.113.12:63369] logged in with entity id 257166 at ([world]-897.189496339502, 63.0, 130.10335042319187)
+[11:42:34] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:powered_rail
+[11:42:34] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Powered Rail] to ImmortalGamer_]
+[11:42:40] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:powered_rail
+[11:42:40] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Powered Rail] to ImmortalGamer_]
+[11:45:35] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[11:45:35] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[11:45:35] [Server thread/INFO]: Scienceboi left the game
+[11:45:41] [User Authenticator #33/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:45:41] [Server thread/INFO]: Scienceboi joined the game
+[11:45:41] [Server thread/INFO]: Scienceboi[/45.124.146.110:55339] logged in with entity id 260596 at ([world]-895.5596570954004, 63.0, 128.22884331024616)
+[11:48:41] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[11:48:41] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[11:48:41] [Server thread/INFO]: Scienceboi left the game
+[11:48:47] [User Authenticator #34/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:48:47] [Server thread/INFO]: Scienceboi joined the game
+[11:48:47] [Server thread/INFO]: Scienceboi[/45.124.146.110:55353] logged in with entity id 262396 at ([world]-916.8309784846579, 79.0, 200.87779031808842)
+[11:49:05] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:torch 64
+[11:49:05] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Torch] to ImmortalGamer_]
+[11:49:24] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[11:49:24] [Server thread/INFO]: Scienceboi left the game
+[11:49:51] [User Authenticator #35/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:49:51] [Server thread/INFO]: Scienceboi joined the game
+[11:49:51] [Server thread/INFO]: Scienceboi[/45.124.146.110:55381] logged in with entity id 262845 at ([world]-916.8309784846579, 79.0, 200.87779031808842)
+[11:50:38] [Server thread/INFO]: Rein tried to swim in lava
+[11:50:42] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:black_stained_glass 300
+[11:50:42] [Server thread/INFO]: [ImmortalGamer_: Gave 300 [Black Stained Glass] to ImmortalGamer_]
+[11:54:50] [Server thread/INFO]: Rein tried to swim in lava
+[11:55:01] [Async Chat Thread - #51/INFO]: [Not Secure] <ImmortalGamer_> common rein w
+[11:55:29] [Server thread/INFO]: Rein tried to swim in lava
+[11:55:49] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[11:55:49] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[11:55:49] [Server thread/INFO]: Scienceboi left the game
+[11:55:54] [User Authenticator #36/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[11:55:54] [Server thread/INFO]: Scienceboi joined the game
+[11:55:54] [Server thread/INFO]: Scienceboi[/45.124.146.110:55397] logged in with entity id 265024 at ([world]-886.5094134701786, 63.0, 128.6040566948265)
+[11:56:42] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:golden_boots
+[11:56:42] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Golden Boots] to ImmortalGamer_]
+[11:56:52] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant ImmortalGamer_ minecraft:frost_walker 2
+[11:56:52] [Server thread/INFO]: [ImmortalGamer_: Applied enchantment Frost Walker II to ImmortalGamer_'s item]
+[11:56:57] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[11:56:57] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[11:58:36] [Async Chat Thread - #53/INFO]: [Not Secure] <Rein> -5043 -440
+[11:59:22] [Server thread/WARN]: Rein moved too quickly! 3.808910724051202,0.604424101326714,10.230799142370927
+[12:00:18] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:villager_spawn_egg 2
+[12:00:18] [Server thread/INFO]: [ImmortalGamer_: Gave 2 [Villager Spawn Egg] to ImmortalGamer_]
+[12:02:51] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[12:02:51] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[12:02:51] [Server thread/INFO]: Scienceboi left the game
+[12:05:11] [User Authenticator #37/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:05:11] [Server thread/INFO]: Scienceboi joined the game
+[12:05:11] [Server thread/INFO]: Scienceboi[/45.124.146.110:65237] logged in with entity id 270477 at ([world]-903.4083914055005, 65.0, 129.26262398935194)
+[12:05:56] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[12:05:56] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[12:05:56] [Server thread/INFO]: Scienceboi left the game
+[12:07:10] [User Authenticator #38/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:07:10] [Server thread/INFO]: Scienceboi joined the game
+[12:07:10] [Server thread/INFO]: Scienceboi[/45.124.146.110:65261] logged in with entity id 271777 at ([world]-903.4083914055005, 65.0, 129.26262398935194)
+[12:08:35] [Server thread/INFO]: Rein has made the advancement [Tactical Fishing]
+[12:10:55] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[12:10:55] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[12:10:55] [Server thread/INFO]: Scienceboi left the game
+[12:10:59] [User Authenticator #39/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:10:59] [Server thread/INFO]: Scienceboi joined the game
+[12:10:59] [Server thread/INFO]: Scienceboi[/45.124.146.110:65272] logged in with entity id 275671 at ([world]-1000.4002596722976, 72.0, -126.1106749122478)
+[12:11:12] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[12:11:12] [Server thread/INFO]: Scienceboi left the game
+[12:11:21] [Server thread/INFO]: ImmortalGamer_ issued server command: /time set day
+[12:11:21] [Server thread/INFO]: [ImmortalGamer_: Set the time to 1000]
+[12:13:23] [User Authenticator #40/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:13:23] [Server thread/INFO]: Scienceboi joined the game
+[12:13:23] [Server thread/INFO]: Scienceboi[/45.124.146.110:58361] logged in with entity id 279352 at ([world]-1000.4002596722976, 72.0, -126.1106749122478)
+[12:17:35] [Server thread/WARN]: Scienceboi was kicked due to keepalive timeout!
+[12:17:35] [Server thread/INFO]: Scienceboi lost connection: Timed out
+[12:17:35] [Server thread/INFO]: Scienceboi left the game
+[12:17:47] [User Authenticator #41/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:17:47] [Server thread/INFO]: Scienceboi joined the game
+[12:17:47] [Server thread/INFO]: Scienceboi[/45.124.146.110:50775] logged in with entity id 285784 at ([world]-399.1609238410625, 128.0, -300.69999998807907)
+[12:18:32] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[12:18:32] [Server thread/INFO]: Scienceboi left the game
+[12:19:22] [Server thread/INFO]: ImmortalGamer_ issued server command: /weather clear
+[12:19:22] [Server thread/INFO]: [ImmortalGamer_: Set the weather to clear]
+[12:20:03] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:rail 20
+[12:20:03] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [Rail] to ImmortalGamer_]
+[12:20:32] [User Authenticator #42/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:20:32] [Server thread/INFO]: Scienceboi joined the game
+[12:20:32] [Server thread/INFO]: Scienceboi[/45.124.146.110:53041] logged in with entity id 288467 at ([world]-399.1609238410625, 128.0, -300.69999998807907)
+[12:20:35] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:minecart 9
+[12:20:35] [Server thread/INFO]: [ImmortalGamer_: Gave 9 [Minecart] to ImmortalGamer_]
+[12:22:39] [Server thread/INFO]: ImmortalGamer_ issued server command: /time set day
+[12:22:39] [Server thread/INFO]: [ImmortalGamer_: Set the time to 1000]
+[12:22:48] [Server thread/INFO]: Rein drowned
+[12:22:50] [Async Chat Thread - #55/INFO]: [Not Secure] <ImmortalGamer_> nice
+[12:23:01] [Async Chat Thread - #55/INFO]: [Not Secure] <ImmortalGamer_> ur not water resistant i see
+[12:23:58] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode spectator
+[12:23:58] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Spectator Mode]
+[12:24:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival
+[12:24:17] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Survival Mode]
+[12:24:28] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:string 64
+[12:24:28] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [String] to ImmortalGamer_]
+[12:24:59] [Server thread/INFO]: Rein was slain by Zombie
+[12:25:30] [Server thread/INFO]: Rein lost connection: Disconnected
+[12:25:30] [Server thread/INFO]: Rein left the game
+[12:25:53] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode spectator
+[12:25:53] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Spectator Mode]
+[12:26:18] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival
+[12:26:18] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Survival Mode]
+[12:26:22] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi ImmortalGamer_
+[12:26:22] [Server thread/INFO]: [ImmortalGamer_: Teleported Scienceboi to ImmortalGamer_]
+[12:26:28] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[12:26:28] [Server thread/INFO]: Scienceboi left the game
+[12:26:47] [User Authenticator #43/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[12:26:47] [Server thread/INFO]: Scienceboi joined the game
+[12:26:47] [Server thread/INFO]: Scienceboi[/45.124.146.105:54945] logged in with entity id 293308 at ([world]-1444.8315397308418, 70.0, 345.31305938610876)
+[12:27:19] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi Ruby
+[12:27:19] [Server thread/INFO]: [ImmortalGamer_: Teleported Scienceboi to Ruby]
+[12:27:38] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Ruby Scienceboi
+[12:27:38] [Server thread/INFO]: [ImmortalGamer_: Teleported Ruby to Scienceboi]
+[12:27:45] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Ruby ImmortalGamer_
+[12:27:45] [Server thread/INFO]: [ImmortalGamer_: Teleported Ruby to ImmortalGamer_]
+[12:28:06] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Ruby Scienceboi
+[12:28:06] [Server thread/INFO]: [ImmortalGamer_: Teleported Ruby to Scienceboi]
+[12:28:41] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:bookshelf 30
+[12:28:41] [Server thread/INFO]: [ImmortalGamer_: Gave 30 [Bookshelf] to ImmortalGamer_]
+[12:29:38] [Server thread/INFO]: ImmortalGamer_ issued server command: /experience set ImmortalGamer_ 50 levels
+[12:29:38] [Server thread/INFO]: [ImmortalGamer_: Set 50 experience levels on ImmortalGamer_]
+[12:29:51] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:anvil
+[12:29:51] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Anvil] to ImmortalGamer_]
+[12:33:06] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode spectator
+[12:33:06] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Spectator Mode]
+[12:33:22] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival
+[12:33:22] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Survival Mode]
+[12:33:27] [Server thread/INFO]: Ruby has made the advancement [Hot Stuff]
+[12:33:29] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:carrot 100
+[12:33:29] [Server thread/INFO]: [ImmortalGamer_: Gave 100 [Carrot] to ImmortalGamer_]
+[12:41:51] [User Authenticator #44/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[12:41:51] [Server thread/INFO]: Rein joined the game
+[12:41:51] [Server thread/INFO]: Rein[/49.36.233.37:61424] logged in with entity id 298310 at ([world]-1486.8264826578506, 63.0, 348.6824811842616)
+[12:43:13] [Server thread/INFO]: ImmortalGamer_ issued server command: /experience set ImmortalGamer_ 40 levels
+[12:43:13] [Server thread/INFO]: [ImmortalGamer_: Set 40 experience levels on ImmortalGamer_]
+[12:45:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:hopper 40
+[12:45:17] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Hopper] to ImmortalGamer_]
+[12:46:20] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp r
+[12:46:22] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[12:46:22] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[12:50:05] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:powered_rail 50
+[12:50:05] [Server thread/INFO]: [ImmortalGamer_: Gave 50 [Powered Rail] to ImmortalGamer_]
+[12:50:20] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_ingot 40
+[12:50:20] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Iron Ingot] to ImmortalGamer_]
+[12:50:48] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:rail 50
+[12:50:48] [Server thread/INFO]: [ImmortalGamer_: Gave 50 [Rail] to ImmortalGamer_]
+[12:50:51] [Server thread/INFO]: Rein tried to swim in lava
+[12:50:52] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:rail 50
+[12:50:52] [Server thread/INFO]: [ImmortalGamer_: Gave 50 [Rail] to ImmortalGamer_]
+[12:53:55] [Server thread/INFO]: Rein issued server command: /msg ImmortalGamer_ tp me to them
+[12:54:01] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein Scienceboi
+[12:54:01] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to Scienceboi]
+[12:54:36] [Server thread/INFO]: ImmortalGamer_ issued server command: /msg Rein 3rd wheeler xd
+[12:55:29] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:pumpkin_seeds 30
+[12:55:29] [Server thread/INFO]: [ImmortalGamer_: Gave 30 [Pumpkin Seeds] to ImmortalGamer_]
+[12:55:43] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:melon_seeds 30
+[12:55:43] [Server thread/INFO]: [ImmortalGamer_: Gave 30 [Melon Seeds] to ImmortalGamer_]
+[12:56:07] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:piston 40
+[12:56:07] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Piston] to ImmortalGamer_]
+[12:56:14] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:observer 40
+[12:56:14] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Observer] to ImmortalGamer_]
+[12:56:33] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:black_stained_glass 100
+[12:56:33] [Server thread/INFO]: [ImmortalGamer_: Gave 100 [Black Stained Glass] to ImmortalGamer_]
+[12:57:52] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:packed_mud 64
+[12:57:52] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Packed Mud] to ImmortalGamer_]
+[12:57:54] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:packed_mud 64
+[12:57:54] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Packed Mud] to ImmortalGamer_]
+[13:01:15] [Server thread/INFO]: Rein tried to swim in lava to escape Ghast
+[13:10:37] [Server thread/INFO]: Rein lost connection: Disconnected
+[13:10:37] [Server thread/INFO]: Rein left the game
+[13:10:38] [User Authenticator #45/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[13:10:38] [Server thread/INFO]: Rein joined the game
+[13:10:38] [Server thread/INFO]: Rein[/49.36.233.37:62374] logged in with entity id 309040 at ([world]-1562.0928756796093, 64.0, 225.01648849588844)
+[13:19:10] [User Authenticator #46/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
+[13:19:11] [Server thread/INFO]: WakeAwake joined the game
+[13:19:11] [Server thread/INFO]: WakeAwake[/49.37.66.240:65471] logged in with entity id 312866 at ([world]-251.06948134686598, 111.0, -374.1279778203901)
+[13:20:15] [Server thread/INFO]: Rein drowned
+[13:20:52] [Server thread/INFO]: ImmortalGamer_ has made the advancement [A Seedy Place]
+[13:22:05] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi ImmortalGamer_
+[13:22:05] [Server thread/INFO]: [ImmortalGamer_: Teleported Scienceboi to ImmortalGamer_]
+[13:22:25] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi Ruby
+[13:22:25] [Server thread/INFO]: [ImmortalGamer_: Teleported Scienceboi to Ruby]
+[13:34:37] [User Authenticator #47/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[13:34:37] [Server thread/INFO]: ImmortalGamer_ lost connection: You logged in from another location
+[13:34:37] [Server thread/INFO]: ImmortalGamer_ left the game
+[13:34:37] [Server thread/INFO]: ImmortalGamer_ joined the game
+[13:34:37] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:55495] logged in with entity id 320902 at ([world]-1480.6032862854574, 64.875, 379.91594347108753)
+[13:35:47] [Async Chat Thread - #59/INFO]: [Not Secure] <Scienceboi> yes
+[13:36:40] [Async Chat Thread - #60/INFO]: [Not Secure] <Scienceboi> yes
+[13:37:07] [Server thread/INFO]: Ruby has made the advancement [Getting an Upgrade]
+[13:44:57] [Server thread/INFO]: Ruby lost connection: Disconnected
+[13:44:57] [Server thread/INFO]: Ruby left the game
+[13:45:25] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[13:45:25] [Server thread/INFO]: Scienceboi left the game
+[13:46:24] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:diamond_pickaxe
+[13:46:24] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Diamond Pickaxe] to ImmortalGamer_]
+[13:46:32] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant ImmortalGamer_ minecraft:silk_touch
+[13:46:32] [Server thread/INFO]: [ImmortalGamer_: Applied enchantment Silk Touch to ImmortalGamer_'s item]
+[13:46:38] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant ImmortalGamer_ minecraft:unbreaking 3
+[13:46:38] [Server thread/INFO]: [ImmortalGamer_: Applied enchantment Unbreaking III to ImmortalGamer_'s item]
+[13:46:43] [Server thread/INFO]: ImmortalGamer_ issued server command: /enchant ImmortalGamer_ minecraft:efficiency 5
+[13:46:43] [Server thread/INFO]: [ImmortalGamer_: Applied enchantment Efficiency V to ImmortalGamer_'s item]
+[13:59:09] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[14:02:14] [Server thread/INFO]: Rein fell from a high place
+[14:03:20] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[14:09:27] [User Authenticator #48/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[14:09:27] [Server thread/INFO]: Scienceboi joined the game
+[14:09:27] [Server thread/INFO]: Scienceboi[/45.124.146.105:51734] logged in with entity id 330843 at ([world]-905.7450737690434, 67.0, 101.1043178919218)
+[14:10:32] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[14:10:32] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[14:11:40] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[14:11:40] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[14:16:50] [Async Chat Thread - #61/INFO]: [Not Secure] <ImmortalGamer_> slow
+[14:16:56] [Async Chat Thread - #61/INFO]: [Not Secure] <ImmortalGamer_> FUCK
+[14:17:01] [Server thread/INFO]: ImmortalGamer_ was burnt to a crisp whilst fighting Zombie
+[14:17:33] [User Authenticator #49/INFO]: UUID of player ryanGP is 704b1d05-839c-34a4-a5fc-7422e9f5b0eb
+[14:17:33] [Server thread/INFO]: ryanGP joined the game
+[14:17:33] [Server thread/INFO]: ryanGP[/183.83.230.17:56775] logged in with entity id 333733 at ([world]-1072.5, 71.0, -118.5)
+[14:17:44] [Server thread/INFO]: Scienceboi was shot by Skeleton
+[14:19:29] [Server thread/INFO]: Rein fell from a high place
+[14:19:33] [Async Chat Thread - #63/INFO]: [Not Secure] <ImmortalGamer_> rein moment
+[14:19:42] [Async Chat Thread - #63/INFO]: [Not Secure] <Scienceboi> life goals
+[14:19:47] [Server thread/INFO]: ryanGP lost connection: Disconnected
+[14:19:47] [Server thread/INFO]: ryanGP left the game
+[14:20:53] [User Authenticator #50/INFO]: UUID of player ryanGP is 704b1d05-839c-34a4-a5fc-7422e9f5b0eb
+[14:20:53] [Server thread/INFO]: ryanGP joined the game
+[14:20:53] [Server thread/INFO]: ryanGP[/183.83.230.17:56400] logged in with entity id 336267 at ([world]-540.0201792931359, 111.7125, -300.5)
+[14:25:32] [Server thread/INFO]: ryanGP has made the advancement [Stone Age]
+[14:26:30] [Server thread/INFO]: ryanGP has made the advancement [Getting an Upgrade]
+[14:30:53] [Async Chat Thread - #65/INFO]: [Not Secure] <ryanGP> mera ping :sob:
+[14:31:47] [Async Chat Thread - #65/INFO]: [Not Secure] <ryanGP> fuck it, imma just go do something else
+[14:31:50] [Server thread/INFO]: ryanGP lost connection: Disconnected
+[14:31:50] [Server thread/INFO]: ryanGP left the game
+[14:31:51] [Async Chat Thread - #65/INFO]: [Not Secure] <ImmortalGamer_> Nooo
+[14:41:57] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[14:41:57] [Server thread/INFO]: Scienceboi left the game
+[14:44:59] [User Authenticator #51/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[14:44:59] [Server thread/INFO]: Scienceboi joined the game
+[14:44:59] [Server thread/INFO]: Scienceboi[/45.124.146.105:50757] logged in with entity id 346387 at ([world]-905.5772427722659, 65.0, 132.8081183815005)
+[14:45:27] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[14:45:27] [Server thread/INFO]: Scienceboi left the game
+[14:45:32] [User Authenticator #51/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[14:45:32] [Server thread/INFO]: Scienceboi joined the game
+[14:45:32] [Server thread/INFO]: Scienceboi[/45.124.146.105:50774] logged in with entity id 346692 at ([world]-905.5772427722659, 65.0, 132.8081183815005)
+[14:47:46] [Server thread/INFO]: WakeAwake was blown up by Creeper
+[14:48:39] [Server thread/WARN]: WakeAwake was kicked due to keepalive timeout!
+[14:48:39] [Server thread/INFO]: WakeAwake lost connection: Timed out
+[14:48:39] [Server thread/INFO]: WakeAwake left the game
+[14:49:39] [User Authenticator #52/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
+[14:49:39] [Server thread/INFO]: WakeAwake joined the game
+[14:49:39] [Server thread/INFO]: WakeAwake[/49.37.66.240:51169] logged in with entity id 348919 at ([world]-259.86716314387365, 78.0, -386.8407825415809)
+[14:49:43] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp WakeAwake
+[14:49:43] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to WakeAwake]
+[14:50:28] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[14:50:28] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[14:53:04] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[14:53:04] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[14:53:18] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[14:53:18] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[14:53:29] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[14:53:29] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[14:53:38] [Server thread/INFO]: ImmortalGamer_ issued server command: /weather clear
+[14:53:38] [Server thread/INFO]: [ImmortalGamer_: Set the weather to clear]
+[14:54:48] [Server thread/INFO]: Rein fell from a high place
+[14:56:15] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp r
+[14:56:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[14:56:17] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[14:58:10] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[14:58:10] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[14:59:11] [Server thread/INFO]: WakeAwake was slain by Zombie
+[14:59:41] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[14:59:41] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[14:59:55] [Server thread/INFO]: ImmortalGamer_ issued server command: /summon minecraft:pig
+[14:59:55] [Server thread/INFO]: [ImmortalGamer_: Summoned new Pig]
+[15:00:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /summon minecraft:lightning_bolt
+[15:00:17] [Server thread/INFO]: [ImmortalGamer_: Summoned new Lightning Bolt]
+[15:00:27] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:00:27] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:00:31] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[15:03:56] [Server thread/INFO]: WakeAwake was slain by Enderman
+[15:08:33] [Server thread/INFO]: WakeAwake was slain by Zombie
+[15:13:27] [Async Chat Thread - #67/INFO]: [Not Secure] <Rein> dont tell
+[15:13:30] [Async Chat Thread - #67/INFO]: [Not Secure] <Rein> pacchu ke bina
+[15:13:30] [Async Chat Thread - #67/INFO]: [Not Secure] <Scienceboi> ik
+[15:13:34] [Async Chat Thread - #67/INFO]: [Not Secure] <Rein> yep
+[15:14:04] [Server thread/INFO]: WakeAwake was shot by Skeleton
+[15:14:30] [Server thread/INFO]: Rein drowned
+[15:15:00] [Server thread/INFO]: WakeAwake has made the advancement [Acquire Hardware]
+[15:18:32] [Server thread/INFO]: WakeAwake has made the advancement [Getting an Upgrade]
+[15:18:39] [Server thread/INFO]: WakeAwake has made the advancement [Isn't It Iron Pick]
+[15:19:56] [Server thread/INFO]: ImmortalGamer_ has reached the goal [Sky's the Limit]
+[15:21:42] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:lever 20
+[15:21:42] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [Lever] to ImmortalGamer_]
+[15:22:37] [Server thread/INFO]: Scienceboi lost connection: Disconnected
+[15:22:37] [Server thread/INFO]: Scienceboi left the game
+[15:24:26] [Server thread/INFO]: Rein drowned
+[15:24:33] [Async Chat Thread - #69/INFO]: [Not Secure] <Rein> not rajasthani moment
+[15:24:36] [Async Chat Thread - #69/INFO]: [Not Secure] <ImmortalGamer_> True
+[15:26:57] [Server thread/INFO]: WakeAwake was slain by Cave Spider
+[15:27:13] [Server thread/INFO]: WakeAwake lost connection: Disconnected
+[15:27:13] [Server thread/INFO]: WakeAwake left the game
+[15:31:14] [Server thread/INFO]: ImmortalGamer_ drowned
+[15:31:20] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:31:20] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:32:32] [Async Chat Thread - #71/INFO]: [Not Secure] <Rein> dont sleep
+[15:34:13] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:34:13] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:34:38] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[15:34:43] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:34:43] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:35:01] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp r
+[15:35:04] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:35:04] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:35:24] [Server thread/INFO]: ImmortalGamer_ was slain by Rein
+[15:35:28] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:35:28] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:36:16] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:36:16] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:37:41] [Server thread/INFO]: ImmortalGamer_ issued server command: /difficulty peaceful
+[15:37:41] [Server thread/INFO]: [ImmortalGamer_: The difficulty has been set to Peaceful]
+[15:40:00] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:40:00] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:40:12] [Server thread/INFO]: ImmortalGamer_ issued server command: /time set night
+[15:40:12] [Server thread/INFO]: [ImmortalGamer_: Set the time to 13000]
+[15:45:13] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[15:45:13] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[15:46:08] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[15:46:08] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[15:46:29] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[15:46:29] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[15:50:03] [Server thread/INFO]: ImmortalGamer_ issued server command: /difficulty hard
+[15:50:03] [Server thread/INFO]: [ImmortalGamer_: The difficulty has been set to Hard]
+[15:51:15] [Server thread/INFO]: ImmortalGamer_ issued server command: /time set night
+[15:51:16] [Server thread/INFO]: [ImmortalGamer_: Set the time to 13000]
+[15:52:52] [Server thread/INFO]: ImmortalGamer_ issued server command: /difficulty hard
+[15:54:59] [Server thread/INFO]: Rein was slain by Zombie
+[15:55:03] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[15:55:03] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[15:55:47] [Server thread/INFO]: ImmortalGamer_ issued server command: /difficulty peaceful
+[15:55:47] [Server thread/INFO]: [ImmortalGamer_: The difficulty has been set to Peaceful]
+[15:57:01] [Server thread/INFO]: ImmortalGamer_ issued server command: /difficulty easy
+[15:57:01] [Server thread/INFO]: [ImmortalGamer_: The difficulty has been set to Easy]
+[15:57:08] [Server thread/INFO]: ImmortalGamer_ issued server command: /summon minecraft:zombie
+[15:57:08] [Server thread/INFO]: [ImmortalGamer_: Summoned new Zombie]
+[15:58:35] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[15:58:35] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[15:58:37] [Server thread/INFO]: Rein fell from a high place
+[15:58:37] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[15:58:37] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[15:58:42] [Server thread/INFO]: Villager EntityVillager['Villager'/302408, uuid='39fa6737-03f3-468c-8dd2-dd24a076764b', l='ServerLevel[world]', x=-1488.56, y=64.11, z=329.33, cpos=[-94, 20], tl=220655, v=true] died, message: 'Villager tried to swim in lava'
+[15:58:42] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[15:58:42] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[15:59:28] [Server thread/INFO]: ImmortalGamer_ issued server command: /time set night
+[15:59:28] [Server thread/INFO]: [ImmortalGamer_: Set the time to 13000]
+[16:00:25] [Server thread/INFO]: Villager EntityVillager['Villager'/300597, uuid='c825ddd2-eadb-4957-a7eb-b7138eb26260', l='ServerLevel[world]', x=-1488.67, y=65.45, z=329.31, cpos=[-94, 20], tl=229107, v=true] died, message: 'Villager tried to swim in lava'
+[16:00:34] [Server thread/INFO]: ImmortalGamer_ issued server command: /difficulty hard
+[16:00:34] [Server thread/INFO]: [ImmortalGamer_: The difficulty has been set to Hard]
+[16:00:49] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[16:00:55] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[16:00:55] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[16:02:26] [Server thread/INFO]: Villager EntityVillager['Villager'/295717, uuid='df006588-198e-4822-aa19-b115b7316043', l='ServerLevel[world]', x=-1467.38, y=68.85, z=390.30, cpos=[-92, 24], tl=250017, v=true] died, message: 'Villager was slain by Rein'
+[16:04:14] [User Authenticator #53/INFO]: UUID of player Scienceboi is 2cb4d624-7c96-3442-a0cd-2d73e13eed0f
+[16:04:14] [Server thread/INFO]: Scienceboi joined the game
+[16:04:14] [Server thread/INFO]: Scienceboi[/45.124.146.105:60527] logged in with entity id 374443 at ([world]-893.2947248762414, 63.875, 129.10412622778244)
+[16:06:16] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi ImmortalGamer_
+[16:06:16] [Server thread/INFO]: [ImmortalGamer_: Teleported Scienceboi to ImmortalGamer_]
+[16:07:53] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode creative
+[16:07:53] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Creative Mode]
+[16:08:08] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival
+[16:08:08] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Survival Mode]
+[16:10:03] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode creative Rein
+[16:10:03] [Server thread/INFO]: [ImmortalGamer_: Set Rein's game mode to Creative Mode]
+[16:10:25] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:villager_spawn_egg 2
+[16:10:25] [Server thread/INFO]: [ImmortalGamer_: Gave 2 [Villager Spawn Egg] to Rein]
+[16:11:44] [Server thread/INFO]: Villager EntityVillager['Villager'/376061, uuid='c77b40f8-3701-4000-bd02-305590c59051', l='ServerLevel[world]', x=-1490.30, y=63.00, z=333.76, cpos=[-94, 20], tl=1069, v=true] died, message: 'Villager hit the ground too hard whilst trying to escape Rein'
+[16:12:14] [Server thread/INFO]: Villager EntityVillager['Villager'/376065, uuid='c6a141ae-881b-4587-b3cf-ff3e39553ab2', l='ServerLevel[world]', x=-1490.30, y=84.56, z=332.13, cpos=[-94, 20], tl=1606, v=true] died, message: 'Villager was slain by Rein'
+[16:12:19] [Server thread/INFO]: Villager EntityVillager['Villager'/297428, uuid='e872b4de-4492-4733-bff9-d2ecf0ef383d', l='ServerLevel[world]', x=-1490.30, y=84.56, z=331.80, cpos=[-94, 20], tl=255456, v=true] died, message: 'Villager was slain by Rein'
+[16:14:30] [Server thread/INFO]: Villager EntityVillager['Villager'/335980, uuid='d4a685ef-e9da-4527-8aa5-57fef392011e', l='ServerLevel[world]', x=-1487.70, y=64.81, z=351.43, cpos=[-93, 21], tl=137223, v=true] died, message: 'Villager tried to swim in lava to escape Rein'
+[16:14:35] [Server thread/INFO]: Villager EntityVillager['Villager'/329442, uuid='b58e8e8c-d67e-4d86-878c-9c17338d441b', l='ServerLevel[world]', x=-1487.84, y=64.00, z=352.62, cpos=[-93, 22], tl=157282, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Rein'
+[16:14:35] [Server thread/INFO]: Villager EntityVillager['Villager'/324959, uuid='f3eb3a12-8982-4155-9248-348bd01b9dd7', l='ServerLevel[world]', x=-1487.58, y=64.11, z=352.47, cpos=[-93, 22], tl=180213, v=true] died, message: 'Villager tried to swim in lava to escape Rein'
+[16:16:19] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival Rein
+[16:16:19] [Server thread/INFO]: [ImmortalGamer_: Set Rein's game mode to Survival Mode]
+[16:16:45] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:hopper 200
+[16:16:45] [Server thread/INFO]: [ImmortalGamer_: Gave 200 [Hopper] to ImmortalGamer_]
+[16:17:19] [Server thread/INFO]: Villager EntityVillager['Villager'/376267, uuid='2b51750d-1a17-425e-bce3-4745a3aff55a', l='ServerLevel[world]', x=-1487.55, y=63.77, z=329.28, cpos=[-93, 20], tl=5896, v=true] died, message: 'Villager burned to death'
+[16:17:23] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode creative Rein
+[16:17:23] [Server thread/INFO]: [ImmortalGamer_: Set Rein's game mode to Creative Mode]
+[16:17:59] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival Rein
+[16:17:59] [Server thread/INFO]: [ImmortalGamer_: Set Rein's game mode to Survival Mode]
+[16:18:36] [Server thread/INFO]: Rein tried to swim in lava
+[16:18:56] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[16:18:56] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[16:23:34] [Server thread/INFO]: Scienceboi was slain by Rein
+[16:27:35] [Server thread/INFO]: ImmortalGamer_ issued server command: /kill ImmortalGamer_
+[16:27:35] [Server thread/INFO]: ImmortalGamer_ fell out of the world
+[16:27:35] [Server thread/INFO]: [ImmortalGamer_: Killed ImmortalGamer_]
+[16:32:02] [Server thread/INFO]: Scienceboi has made the advancement [The Parrots and the Bats]
+[16:33:01] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 400
+[16:33:01] [Server thread/INFO]: [ImmortalGamer_: Gave 400 [Block of Iron] to ImmortalGamer_]
+[16:35:57] [User Authenticator #54/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[16:35:57] [Server thread/INFO]: Ruby joined the game
+[16:35:57] [Server thread/INFO]: Ruby[/49.37.113.117:57454] logged in with entity id 382944 at ([world]-898.9287512676797, 67.0, 102.37246265994152)
+[16:36:44] [Server thread/INFO]: Scienceboi was impaled by Drowned
+[16:37:05] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:cooked_beef 45
+[16:37:05] [Server thread/INFO]: [ImmortalGamer_: Gave 45 [Steak] to ImmortalGamer_]
+[16:37:05] [Server thread/INFO]: Scienceboi was impaled by Drowned
+[16:38:18] [Server thread/INFO]: Rein lost connection: Disconnected
+[16:38:18] [Server thread/INFO]: Rein left the game
+[16:40:08] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:40:08] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:40:25] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:40:25] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:40:59] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:40:59] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:41:52] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:41:52] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:42:39] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:42:39] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:42:57] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:42:57] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:43:04] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:iron_block 40
+[16:43:04] [Server thread/INFO]: [ImmortalGamer_: Gave 40 [Block of Iron] to ImmortalGamer_]
+[16:53:03] [User Authenticator #55/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[16:53:03] [Server thread/INFO]: Rein joined the game
+[16:53:03] [Server thread/INFO]: Rein[/49.36.233.37:61584] logged in with entity id 387631 at ([world]-1462.973327778437, 67.0, 410.39504394235405)
+[16:55:43] [Server thread/INFO]: Ruby lost connection: Timed out
+[16:55:43] [Server thread/INFO]: Ruby left the game
+[17:04:50] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[17:04:50] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[17:05:57] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[17:05:57] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[17:08:39] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:08:39] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:08:41] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:08:41] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:08:48] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:08:48] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:09:37] [Server thread/INFO]: Scienceboi was shot by Skeleton
+[17:10:39] [Server thread/INFO]: Rein was shot by Skeleton
+[17:10:50] [Server thread/INFO]: ImmortalGamer_ was shot by Skeleton
+[17:10:55] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[17:10:55] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[17:11:00] [Server thread/WARN]: Rein moved wrongly!
+[17:19:09] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:19:10] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:19:10] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:19:10] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:19:11] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:19:11] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:19:11] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:amethyst_shard 64
+[17:19:11] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Amethyst Shard] to Rein]
+[17:21:00] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[17:21:00] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[17:21:42] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[17:21:42] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[17:24:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:string 20
+[17:24:17] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [String] to ImmortalGamer_]
+[17:26:13] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:bone_meal
+[17:26:13] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Bone Meal] to ImmortalGamer_]
+[17:26:15] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:bone_meal 20
+[17:26:15] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [Bone Meal] to ImmortalGamer_]
+[17:27:11] [Server thread/INFO]: Rein froze to death
+[17:27:57] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode creative ImmortalGamer_
+[17:27:57] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Creative Mode]
+[17:29:40] [Server thread/INFO]: ImmortalGamer_ issued server command: /gamemode survival
+[17:29:40] [Server thread/INFO]: [ImmortalGamer_: Set own game mode to Survival Mode]
+[17:34:59] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:bone_meal 20
+[17:34:59] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [Bone Meal] to ImmortalGamer_]
+[17:36:07] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein ImmortalGamer_
+[17:36:07] [Server thread/INFO]: [ImmortalGamer_: Teleported Rein to ImmortalGamer_]
+[17:36:37] [Server thread/INFO]: Rein lost connection: Disconnected
+[17:36:37] [Server thread/INFO]: Rein left the game
+[17:36:39] [Server thread/INFO]: ImmortalGamer_ lost connection: Disconnected
+[17:36:39] [Server thread/INFO]: ImmortalGamer_ left the game
+[17:40:40] [User Authenticator #56/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[17:40:40] [Server thread/INFO]: Ruby joined the game
+[17:40:40] [Server thread/INFO]: Ruby[/157.41.228.17:54292] logged in with entity id 406722 at ([world]-901.8777150454678, 61.686139964867635, 108.76530303334552)
+[17:41:25] [Async Chat Thread - #73/INFO]: [Not Secure] <Scienceboi> hello there
+[17:41:25] [Async Chat Thread - #73/INFO]: [Not Secure] <Ruby> hey
+[17:41:34] [Async Chat Thread - #73/INFO]: [Not Secure] <Ruby> still lights out
+[17:41:36] [Async Chat Thread - #73/INFO]: [Not Secure] <Scienceboi> did more stuff
+[17:41:38] [Async Chat Thread - #73/INFO]: [Not Secure] <Scienceboi> ohh
+[17:41:42] [Async Chat Thread - #73/INFO]: [Not Secure] <Ruby> here to play for a while
+[17:42:06] [Async Chat Thread - #73/INFO]: [Not Secure] <Ruby> till my latop runs outta charge ig
+[17:42:22] [Async Chat Thread - #73/INFO]: [Not Secure] <Scienceboi> we need andesite wall to replace the cobblestone wall
+[17:42:48] [Async Chat Thread - #73/INFO]: [Not Secure] <Scienceboi> look at the interior of ground floor
+[17:42:58] [Async Chat Thread - #73/INFO]: [Not Secure] <Scienceboi> for the cobblestone wall
+[17:43:11] [Async Chat Thread - #73/INFO]: [Not Secure] <Ruby> ?
+[17:44:59] [Async Chat Thread - #75/INFO]: [Not Secure] <Scienceboi> btw disable shaders if on battery if you didnt already
+[17:45:07] [Async Chat Thread - #75/INFO]: [Not Secure] <Ruby> i have
+[17:45:21] [Async Chat Thread - #75/INFO]: [Not Secure] <Scienceboi> nice
+[17:45:49] [Async Chat Thread - #75/INFO]: [Not Secure] <Ruby> i was thinking we could look for other interior designs
+[17:45:54] [Async Chat Thread - #75/INFO]: [Not Secure] <Scienceboi> sure
+[17:45:55] [Async Chat Thread - #75/INFO]: [Not Secure] <Ruby> from other videos
+[17:46:09] [Async Chat Thread - #75/INFO]: [Not Secure] <Ruby> so what else is leftin this house?
+[17:46:23] [Async Chat Thread - #75/INFO]: [Not Secure] <Scienceboi> only the interiors i believe
+[17:46:34] [Async Chat Thread - #75/INFO]: [Not Secure] <Scienceboi> and some windows here and there
+[17:48:02] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> good enough of a window?
+[17:48:07] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> yes
+[17:48:31] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> i was thinking we could make aan aquarium in front of the sofa
+[17:48:38] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> ohh
+[17:48:54] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> like it goes down and full of glass?
+[17:49:11] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> yeah ill tell you later in vc iig
+[17:49:17] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> ok
+[17:49:58] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> what now?
+[17:50:34] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> idk only the interior design is left and after that gotta transfer our chests
+[17:50:54] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> we wont make a different place for storage?
+[17:51:04] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> oh yeah we can do that
+[17:51:28] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> or maybe we can just extend the house on our own
+[17:51:35] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> yeah downwards
+[17:51:37] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> for storage
+[17:51:40] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> yes
+[17:51:55] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> what about the empty area in here?
+[17:52:15] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> eh
+[17:52:17] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> idk
+[17:53:02] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> another aptrol
+[17:53:04] [Async Chat Thread - #77/INFO]: [Not Secure] <Scienceboi> we could prolly plant some trees or shit but it wont go along with the aesthatic
+[17:53:06] [Async Chat Thread - #77/INFO]: [Not Secure] <Ruby> patrol
+[17:53:20] [Async Chat Thread - #79/INFO]: [Not Secure] <Scienceboi> where
+[17:53:27] [Async Chat Thread - #79/INFO]: [Not Secure] <Ruby> behind the house
+[17:54:02] [Async Chat Thread - #79/INFO]: [Not Secure] <Scienceboi> i dont have shield lol
+[17:55:18] [Async Chat Thread - #80/INFO]: [Not Secure] <Scienceboi> need milk
+[17:55:49] [Async Chat Thread - #80/INFO]: [Not Secure] <Scienceboi> alright they gone
+[17:57:33] [Async Chat Thread - #82/INFO]: [Not Secure] <Scienceboi> does the bad omen goes away with time?
+[17:57:39] [Async Chat Thread - #82/INFO]: [Not Secure] <Ruby> idts
+[17:58:40] [Async Chat Thread - #84/INFO]: [Not Secure] <Scienceboi> found a moo moo lesgoo
+[17:59:07] [Async Chat Thread - #84/INFO]: [Not Secure] <Ruby> will decicde on the onterior later
+[17:59:10] [Async Chat Thread - #84/INFO]: [Not Secure] <Ruby> ?
+[17:59:12] [Async Chat Thread - #84/INFO]: [Not Secure] <Scienceboi> yeah
+[18:01:37] [Async Chat Thread - #86/INFO]: [Not Secure] <Ruby> https://www.youtube.com/watch?v=gtAypTJT7cM
+[18:01:41] [Async Chat Thread - #86/INFO]: [Not Secure] <Scienceboi> wtf
+[18:01:48] [Async Chat Thread - #86/INFO]: [Not Secure] <Ruby> can you check it?
+[18:01:53] [Async Chat Thread - #86/INFO]: [Not Secure] <Scienceboi> just dm me on discord
+[18:01:58] [Async Chat Thread - #86/INFO]: [Not Secure] <Ruby> i mean there is a room there on storage
+[18:02:03] [Async Chat Thread - #86/INFO]: [Not Secure] <Scienceboi> ohh
+[18:02:09] [Async Chat Thread - #86/INFO]: [Not Secure] <Scienceboi> but dm me on discord
+[18:02:20] [Async Chat Thread - #86/INFO]: [Not Secure] <Scienceboi> its just a simple text on here
+[18:04:18] [Async Chat Thread - #88/INFO]: [Not Secure] <Ruby> where did the carpets go?
+[18:04:56] [Async Chat Thread - #88/INFO]: [Not Secure] <Scienceboi> the house design is similar
+[18:05:01] [Async Chat Thread - #88/INFO]: [Not Secure] <Scienceboi> totally doable
+[18:07:25] [User Authenticator #57/INFO]: UUID of player Rein is 7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c
+[18:07:25] [Server thread/INFO]: Rein joined the game
+[18:07:25] [Server thread/INFO]: Rein[/49.36.233.37:51153] logged in with entity id 410128 at ([world]-1450.5628752230984, 64.0, 402.15233308374917)
+[18:07:48] [Async Chat Thread - #90/INFO]: [Not Secure] <Scienceboi> we need more glasses and concrete though
+[18:07:52] [Async Chat Thread - #90/INFO]: [Not Secure] <Rein> uhu
+[18:07:55] [Async Chat Thread - #90/INFO]: [Not Secure] <Rein> undeafen ho ja
+[18:08:01] [Async Chat Thread - #90/INFO]: [Not Secure] <Scienceboi> nhi
+[18:08:03] [Async Chat Thread - #90/INFO]: [Not Secure] <Ruby> for what?
+[18:08:06] [Async Chat Thread - #90/INFO]: [Not Secure] <Rein> bsdk ho na
+[18:08:55] [Async Chat Thread - #90/INFO]: [Not Secure] <Ruby> we got sand
+[18:09:08] [User Authenticator #58/INFO]: UUID of player ImmortalGamer_ is ab0445f7-b263-31eb-acd6-1ca610b5cefa
+[18:09:08] [Server thread/INFO]: ImmortalGamer_ joined the game
+[18:09:08] [Server thread/INFO]: ImmortalGamer_[/49.37.243.36:49611] logged in with entity id 410820 at ([world]-1458.1044429076446, 64.0, 376.49390335711246)
+[18:09:41] [Async Chat Thread - #90/INFO]: [Not Secure] <Scienceboi> yeah
+[18:09:43] [Server thread/INFO]: Rein issued server command: /msg ImmortalGamer_ gimmeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[18:09:49] [Server thread/INFO]: ImmortalGamer_ issued server command: /give Rein minecraft:dark_oak_log 200
+[18:09:49] [Server thread/INFO]: [ImmortalGamer_: Gave 200 [Dark Oak Log] to Rein]
+[18:10:08] [Async Chat Thread - #90/INFO]: [Not Secure] <Scienceboi> byt to extend the house downwards we need a whole lot of concrete and glass more
+[18:10:23] [Async Chat Thread - #90/INFO]: [Not Secure] <Ruby> yeah
+[18:10:32] [Async Chat Thread - #90/INFO]: [Not Secure] <Ruby> will think about that later
+[18:10:40] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Scienceboi
+[18:10:40] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Scienceboi]
+[18:10:44] [Async Chat Thread - #91/INFO]: [Not Secure] <Ruby> lets make a food farm first or something
+[18:10:53] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:end_rod 20
+[18:10:53] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [End Rod] to ImmortalGamer_]
+[18:10:58] [Async Chat Thread - #91/INFO]: [Not Secure] <Ruby> or like a mine
+[18:11:11] [Async Chat Thread - #91/INFO]: [Not Secure] <Ruby> oh thanks
+[18:11:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[18:11:17] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[18:12:17] [Async Chat Thread - #92/INFO]: [Not Secure] <Ruby> heyyyy
+[18:12:28] [Async Chat Thread - #92/INFO]: [Not Secure] <Ruby> what do you wanna do next?
+[18:14:01] [Async Chat Thread - #94/INFO]: [Not Secure] <Scienceboi> you got slabs right
+[18:14:06] [Async Chat Thread - #95/INFO]: [Not Secure] <Ruby> nope
+[18:15:18] [Async Chat Thread - #96/INFO]: [Not Secure] <Ruby> what next?
+[18:16:13] [Async Chat Thread - #96/INFO]: [Not Secure] <Scienceboi> later when you get electricity back?
+[18:16:20] [Async Chat Thread - #96/INFO]: [Not Secure] <Ruby> oh
+[18:16:25] [Async Chat Thread - #96/INFO]: [Not Secure] <Scienceboi> for the extension thingy
+[18:16:28] [Async Chat Thread - #96/INFO]: [Not Secure] <ImmortalGamer_> science boi
+[18:16:32] [Async Chat Thread - #96/INFO]: [Not Secure] <ImmortalGamer_> do the dr stone thing
+[18:16:38] [Async Chat Thread - #96/INFO]: [Not Secure] <ImmortalGamer_> and generate electricity man
+[18:16:40] [Async Chat Thread - #96/INFO]: [Not Secure] <ImmortalGamer_> smhsmh
+[18:16:41] [Server thread/INFO]: Rein was shot by Skeleton
+[18:16:43] [Async Chat Thread - #96/INFO]: [Not Secure] <ImmortalGamer_> LMFAO
+[18:16:45] [Async Chat Thread - #96/INFO]: [Not Secure] <Ruby> ohayo sekai good morning world
+[18:17:54] [Async Chat Thread - #99/INFO]: [Not Secure] <Ruby> i was thinking about a food farm
+[18:17:59] [Async Chat Thread - #99/INFO]: [Not Secure] <Scienceboi> ohh
+[18:18:06] [Async Chat Thread - #99/INFO]: [Not Secure] <Scienceboi> an automatic one?
+[18:18:10] [Async Chat Thread - #99/INFO]: [Not Secure] <Ruby> yes yes
+[18:18:17] [Async Chat Thread - #99/INFO]: [Not Secure] <Scienceboi> i got no knowledge for those
+[18:18:32] [Async Chat Thread - #99/INFO]: [Not Secure] <Ruby> we can look it up and copy it
+[18:18:38] [Async Chat Thread - #99/INFO]: [Not Secure] <Scienceboi> cool
+[18:18:46] [Async Chat Thread - #99/INFO]: [Not Secure] <Ruby> it can be near the minimalist home
+[18:18:58] [Async Chat Thread - #99/INFO]: [Not Secure] <Scienceboi> just look for a small one dont wanna do something large again
+[18:19:04] [Async Chat Thread - #99/INFO]: [Not Secure] <Ruby> yes yes
+[18:19:11] [Async Chat Thread - #99/INFO]: [Not Secure] <Ruby> like a chicken one then?
+[18:19:19] [Async Chat Thread - #99/INFO]: [Not Secure] <Scienceboi> sure
+[18:20:30] [Server thread/INFO]: ImmortalGamer_ was blown up by Creeper
+[18:21:28] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:cobbled_deepslate 600
+[18:21:28] [Server thread/INFO]: [ImmortalGamer_: Gave 600 [Cobbled Deepslate] to ImmortalGamer_]
+[18:21:37] [Async Chat Thread - #100/INFO]: [Not Secure] <Ruby> we should get a stack of iron
+[18:21:43] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:stonecutter
+[18:21:43] [Server thread/INFO]: [ImmortalGamer_: Gave 1 [Stonecutter] to ImmortalGamer_]
+[18:21:50] [Async Chat Thread - #100/INFO]: [Not Secure] <Ruby> boiscience?
+[18:22:13] [Async Chat Thread - #100/INFO]: [Not Secure] <Scienceboi> ok
+[18:22:53] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:obsidian 20
+[18:22:53] [Server thread/INFO]: [ImmortalGamer_: Gave 20 [Obsidian] to ImmortalGamer_]
+[18:24:33] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:magenta_stained_glass 250
+[18:24:33] [Server thread/INFO]: [ImmortalGamer_: Gave 250 [Magenta Stained Glass] to ImmortalGamer_]
+[18:25:30] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> uhhh we need some raw nether quratz for observers
+[18:26:03] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> oh cool
+[18:26:10] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> just 2 would be enough
+[18:26:18] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> so we go to the nether?
+[18:26:25] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> yes
+[18:26:50] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> wear something gold and lets go then
+[18:27:15] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> lights came back!!
+[18:27:21] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> ohh
+[18:27:23] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> nice
+[18:27:29] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> come vc then
+[18:27:31] [Async Chat Thread - #102/INFO]: [Not Secure] <ImmortalGamer_> science boi did the dr stone thing
+[18:27:33] [Async Chat Thread - #102/INFO]: [Not Secure] <ImmortalGamer_> i knew it
+[18:27:37] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> when the wifi comes back
+[18:27:39] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> lol
+[18:27:40] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> lmao
+[18:27:46] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> aight so nether
+[18:27:54] [Server thread/INFO]: Ruby lost connection: Disconnected
+[18:27:55] [Server thread/INFO]: Ruby left the game
+[18:27:55] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> vc first
+[18:28:03] [User Authenticator #59/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[18:28:03] [Server thread/INFO]: Ruby joined the game
+[18:28:03] [Server thread/INFO]: Ruby[/157.41.228.17:58110] logged in with entity id 416024 at ([world]-902.2960372635428, 63.0, 128.09070407390482)
+[18:28:17] [Async Chat Thread - #102/INFO]: [Not Secure] <Ruby> where nether portal?
+[18:28:27] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> vc
+[18:28:30] [Async Chat Thread - #102/INFO]: [Not Secure] <Scienceboi> ?
+[18:29:12] [Server thread/INFO]: Ruby lost connection: Disconnected
+[18:29:12] [Server thread/INFO]: Ruby left the game
+[18:29:19] [User Authenticator #60/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[18:29:19] [Server thread/INFO]: Ruby joined the game
+[18:29:19] [Server thread/INFO]: Ruby[/157.41.228.17:58232] logged in with entity id 416385 at ([world]-899.1512417673212, 63.0, 132.0623885224006)
+[18:30:27] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 0.6264521318563823
+[18:30:27] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 0.6264521318563823
+[18:30:27] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 0.6264521318563823
+[18:30:27] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 0.6264521318563823
+[18:30:27] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 0.6264521318563823
+[18:30:27] [Server thread/WARN]: Boat (vehicle of Ruby) moved wrongly! 0.6264521318563823
+[18:31:45] [Server thread/INFO]: Ruby lost connection: Disconnected
+[18:31:45] [Server thread/INFO]: Ruby left the game
+[18:31:51] [User Authenticator #61/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[18:31:51] [Server thread/INFO]: Ruby joined the game
+[18:31:51] [Server thread/INFO]: Ruby[/157.41.228.17:58355] logged in with entity id 418052 at ([world]-1086.2687432603238, 49.0, -136.20245110817174)
+[18:32:00] [Async Chat Thread - #104/INFO]: [Not Secure] <Ruby> weird
+[18:32:39] [Server thread/INFO]: Ruby has made the advancement [We Need to Go Deeper]
+[18:34:05] [Server thread/INFO]: Ruby tried to swim in lava
+[18:34:10] [Async Chat Thread - #106/INFO]: [Not Secure] <ImmortalGamer_> skill diff
+[18:36:40] [Server thread/INFO]: Ruby lost connection: Disconnected
+[18:36:40] [Server thread/INFO]: Ruby left the game
+[18:36:42] [User Authenticator #62/INFO]: UUID of player Ruby is 3a3202d2-dc29-3c23-b4ba-2bf1b7deb6c5
+[18:36:42] [Server thread/INFO]: Ruby joined the game
+[18:36:42] [Server thread/INFO]: Ruby[/49.37.113.35:58482] logged in with entity id 421697 at ([world]-913.1750470434507, 62.073264324665075, 138.775642615964)
+[18:43:31] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:magenta_concrete 250
+[18:43:31] [Server thread/INFO]: [ImmortalGamer_: Gave 250 [Magenta Concrete] to ImmortalGamer_]
+[18:46:28] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Ruby ImmortalGamer_
+[18:46:28] [Server thread/INFO]: [ImmortalGamer_: Teleported Ruby to ImmortalGamer_]
+[18:46:47] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Ruby Scienceboi
+[18:46:47] [Server thread/INFO]: [ImmortalGamer_: Teleported Ruby to Scienceboi]
+[18:47:02] [Server thread/INFO]: Ruby has made the advancement [Surge Protector]
+[18:47:17] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:magenta_stained_glass 64
+[18:47:17] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Magenta Stained Glass] to ImmortalGamer_]
+[18:47:40] [Server thread/INFO]: Scienceboi has made the advancement [Surge Protector]
+[18:48:19] [Server thread/INFO]: ImmortalGamer_ issued server command: /give ImmortalGamer_ minecraft:magenta_stained_glass 64
+[18:48:19] [Server thread/INFO]: [ImmortalGamer_: Gave 64 [Magenta Stained Glass] to ImmortalGamer_]
+[18:50:08] [Server thread/INFO]: ImmortalGamer_ issued server command: /tp Rein
+[18:50:08] [Server thread/INFO]: [ImmortalGamer_: Teleported ImmortalGamer_ to Rein]
+[18:55:00] [Server thread/INFO]: [WEB] Pacchu: unga
+[18:55:05] [Async Chat Thread - #108/INFO]: [Not Secure] <Rein> BUNGA
+[18:55:05] [Async Chat Thread - #108/INFO]: [Not Secure] <ImmortalGamer_> wassup
+[18:55:07] [Server thread/INFO]: [WEB] Pacchu: bunga
+[18:55:14] [Async Chat Thread - #108/INFO]: [Not Secure] <ImmortalGamer_> are u cat god
+[18:55:18] [Server thread/INFO]: [WEB] Pacchu: aw
+[18:55:34] [Server thread/INFO]: [WEB] Pacchu: damn
+[18:55:40] [Server thread/INFO]: [WEB] Pacchu: hm
+[18:56:03] [Server thread/INFO]: ImmortalGamer_ fell from a high place
+[19:02:34] [Server thread/INFO]: Rein drowned
+[19:04:37] [Server thread/INFO]: Scienceboi has made the advancement [Hot Stuff]
