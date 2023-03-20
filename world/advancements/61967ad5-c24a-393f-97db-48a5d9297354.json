@@ -2940,15 +2940,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_the_recipe": "2023-03-20 06:50:47 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:fast_leaf_decay": {
     "criteria": {
       "tick": "2023-03-20 06:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_the_recipe": "2023-03-20 06:50:47 +0000"
     },
     "done": true
   },
@@ -5399,15 +5399,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
-    "criteria": {
-      "has_the_recipe": "2023-03-20 06:50:47 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:double_shulker_shells": {
     "criteria": {
       "tick": "2023-03-20 06:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-03-20 06:50:47 +0000"
     },
     "done": true
   },
@@ -6278,15 +6278,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2023-03-20 06:50:47 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:larger_phantoms": {
     "criteria": {
       "tick": "2023-03-20 06:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2023-03-20 06:50:47 +0000"
     },
     "done": true
   },
