@@ -2139,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2023-03-20 16:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_the_recipe": "2023-03-20 06:50:47 +0000"
@@ -4001,6 +4007,7 @@
       "minecraft:magma_cube": "2023-01-29 19:50:09 +0000",
       "minecraft:spider": "2023-01-12 12:30:41 +0000",
       "minecraft:creeper": "2023-01-12 20:49:26 +0000",
+      "minecraft:wither": "2023-03-20 16:12:46 +0000",
       "minecraft:evoker": "2023-03-09 02:04:02 +0000",
       "minecraft:slime": "2023-03-09 02:58:24 +0000",
       "minecraft:zombified_piglin": "2023-01-29 19:41:23 +0000",
@@ -5375,6 +5382,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-03-20 16:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-03-20 06:50:47 +0000"
@@ -5428,6 +5441,7 @@
       "bread": "2023-01-05 13:01:47 +0000",
       "golden_carrot": "2023-03-20 07:06:36 +0000",
       "cooked_chicken": "2023-01-12 20:51:18 +0000",
+      "enchanted_golden_apple": "2023-03-20 07:36:16 +0000",
       "carrot": "2023-01-11 17:09:03 +0000"
     },
     "done": false
