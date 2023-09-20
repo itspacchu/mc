@@ -1,0 +1,42 @@
+[14:05:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:05:58] [ServerMain/INFO]: Loaded 7 recipes
+[14:05:58] [ServerMain/INFO]: Loaded 1271 advancements
+[14:05:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:05:58] [Server thread/INFO]: Loading properties
+[14:05:58] [Server thread/INFO]: Default game type: SURVIVAL
+[14:05:58] [Server thread/INFO]: Generating keypair
+[14:05:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:05:59] [Server thread/INFO]: Using epoll channel type
+[14:05:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:05:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:05:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:05:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:05:59] [Server thread/INFO]: Preparing level "world"
+[14:06:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:06:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:06:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:06:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:06:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:06:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:06:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:06:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:06:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:06:05] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[14:06:06] [Worker-Main-2/INFO]: Preparing spawn area: 78%
+[14:06:06] [Server thread/INFO]: Time elapsed: 4686 ms
+[14:06:06] [Server thread/INFO]: Done (7.149s)! For help, type "help"
+[14:06:06] [Server thread/INFO]: Starting remote control listener
+[14:06:06] [Server thread/INFO]: Thread RCON Listener started
+[14:06:06] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[14:06:48] [Server thread/INFO]: WakeAwake[/49.37.24.4:61630] logged in with entity id 64 at (146.5, 69.0, 93.5)
+[14:06:48] [Server thread/INFO]: WakeAwake joined the game
+[14:08:28] [Server thread/INFO]: WakeAwake was slain by Zombie
+[14:13:14] [Server thread/INFO]: WakeAwake was slain by Spider
+[14:15:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=220, y=70, z=39} gu{x=247, y=69, z=140}
+[14:15:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=246, y=68, z=137} gu{x=246, y=69, z=137}
+[14:15:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=246, y=69, z=137} gu{x=247, y=69, z=135}
+[14:15:53] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=68, z=138} gu{x=247, y=69, z=137}
+[14:15:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=68, z=139} gu{x=247, y=69, z=139}
+[14:25:36] [Server thread/INFO]: WakeAwake has made the advancement [Ice Bucket Challenge]
+[14:30:10] [Server thread/INFO]: WakeAwake lost connection: Disconnected
+[14:30:10] [Server thread/INFO]: WakeAwake left the game
