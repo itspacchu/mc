@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "7a8f2cc2-60f7-31ea-b5c7-f3f68e351f6c",
+    "name": "Rein",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f2c70530-b866-3025-a26a-8cc94dc59ee5",
+    "name": "WakeAwake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
