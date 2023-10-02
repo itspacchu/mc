@@ -1,24 +1,6 @@
-[06:02:32] [Server thread/INFO]: WakeAwake[/49.37.27.217:51403] logged in with entity id 266890 at (223.82512770445348, 79.5625, 304.6317723968573)
-[06:02:32] [Server thread/INFO]: WakeAwake joined the game
-[06:08:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=64, z=199} gu{x=11, y=62, z=199}
-[06:08:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=64, z=199} gu{x=11, y=62, z=199}
-[06:08:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=64, z=199} gu{x=11, y=62, z=199}
-[06:08:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=10, y=63, z=200} gu{x=11, y=62, z=199}
-[06:08:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=14, y=64, z=196} gu{x=14, y=62, z=196}
-[06:08:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=14, y=64, z=198} gu{x=14, y=62, z=198}
-[06:12:22] [Server thread/WARN]: Player WakeAwake just tried to change non-editable sign
-[06:20:37] [Server thread/WARN]: Boat with Chest (vehicle of WakeAwake) moved wrongly! 0.7366530864912879
-[06:20:37] [Server thread/WARN]: Boat with Chest (vehicle of WakeAwake) moved wrongly! 0.5305761629924062
-[06:20:38] [Server thread/WARN]: Boat with Chest (vehicle of WakeAwake) moved wrongly! 0.31656354456037183
-[07:18:59] [Server thread/INFO]: WakeAwake lost connection: Disconnected
-[07:18:59] [Server thread/INFO]: WakeAwake left the game
-[07:49:52] [Server thread/INFO]: WakeAwake[/49.37.27.217:54373] logged in with entity id 282906 at (219.51127979971093, 64.0, 71.11244302737697)
-[07:49:52] [Server thread/INFO]: WakeAwake joined the game
-[07:52:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[07:52:33] [Server thread/INFO]: [Rcon: Made WakeAwake a server operator]
-[07:52:39] [Server thread/INFO]: [Rcon: Made Rein a server operator]
-[07:52:48] [Server thread/INFO]: [WakeAwake: Set own game mode to Creative Mode]
-[07:53:27] [Server thread/INFO]: [WakeAwake: Set own game mode to Survival Mode]
-[07:53:44] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[07:53:50] [Server thread/INFO]: [WakeAwake: Set the time to 13000]
-[07:55:34] [Server thread/INFO]: [WakeAwake: Gamerule keepInventory is now set to: true]
+[05:59:39] [User Authenticator #4/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
+[05:59:40] [Server thread/INFO]: WakeAwake joined the game
+[05:59:40] [Server thread/INFO]: WakeAwake[/49.37.25.11:49876] logged in with entity id 25208 at ([world]168.17835814825213, 108.0, 305.9142990821104)
+[06:01:25] [Server thread/INFO]: WakeAwake issued server command: /home farmhouse
+[06:16:46] [Server thread/INFO]: WakeAwake lost connection: Disconnected
+[06:16:46] [Server thread/INFO]: WakeAwake left the game

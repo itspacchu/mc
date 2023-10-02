@@ -7,23 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_ocean": "2023-09-23 09:08:26 +0000",
-      "minecraft:sunflower_plains": "2023-09-20 14:08:08 +0000",
-      "minecraft:birch_forest": "2023-09-25 05:08:21 +0000",
-      "minecraft:windswept_hills": "2023-09-20 15:26:00 +0000",
       "minecraft:beach": "2023-09-20 14:08:48 +0000",
+      "minecraft:forest": "2023-09-22 10:01:44 +0000",
       "minecraft:mangrove_swamp": "2023-09-20 14:24:17 +0000",
       "minecraft:sparse_jungle": "2023-09-22 10:02:28 +0000",
+      "minecraft:deep_ocean": "2023-09-23 09:08:26 +0000",
       "minecraft:river": "2023-09-20 14:08:53 +0000",
       "minecraft:lukewarm_ocean": "2023-09-23 19:39:59 +0000",
       "minecraft:dripstone_caves": "2023-09-25 19:30:34 +0000",
-      "minecraft:swamp": "2023-09-20 14:06:49 +0000",
-      "minecraft:forest": "2023-09-22 10:01:44 +0000",
+      "minecraft:old_growth_birch_forest": "2023-09-25 19:15:09 +0000",
       "minecraft:ocean": "2023-09-20 14:11:01 +0000",
       "minecraft:jungle": "2023-09-22 10:02:11 +0000",
-      "minecraft:windswept_savanna": "2023-09-21 21:08:04 +0000",
-      "minecraft:old_growth_birch_forest": "2023-09-25 19:15:09 +0000",
+      "minecraft:sunflower_plains": "2023-09-20 14:08:08 +0000",
+      "minecraft:swamp": "2023-09-20 14:06:49 +0000",
+      "minecraft:birch_forest": "2023-09-25 05:08:21 +0000",
+      "minecraft:windswept_hills": "2023-09-20 15:26:00 +0000",
       "minecraft:savanna": "2023-09-20 14:22:56 +0000",
+      "minecraft:windswept_savanna": "2023-09-21 21:08:04 +0000",
       "minecraft:plains": "2023-09-21 21:08:01 +0000"
     },
     "done": false
@@ -499,16 +499,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-09-20 16:01:03 +0000",
+      "mutton": "2023-09-20 14:18:39 +0000",
+      "bread": "2023-09-21 23:37:46 +0000",
+      "suspicious_stew": "2023-09-29 09:23:20 +0000",
       "cooked_mutton": "2023-09-21 10:44:22 +0000",
       "cooked_beef": "2023-09-21 10:22:30 +0000",
       "beef": "2023-09-20 14:18:28 +0000",
       "baked_potato": "2023-09-25 19:09:40 +0000",
+      "melon_slice": "2023-09-22 20:24:08 +0000",
       "porkchop": "2023-09-20 15:51:51 +0000",
       "apple": "2023-09-21 21:03:25 +0000",
-      "mutton": "2023-09-20 14:18:39 +0000",
-      "bread": "2023-09-21 23:37:46 +0000",
-      "melon_slice": "2023-09-22 20:24:08 +0000",
-      "cooked_chicken": "2023-09-21 10:36:31 +0000"
+      "cooked_chicken": "2023-09-21 10:36:31 +0000",
+      "carrot": "2023-09-29 20:08:49 +0000"
     },
     "done": false
   },
@@ -570,13 +572,13 @@
     "criteria": {
       "minecraft:pillager": "2023-09-21 16:40:43 +0000",
       "minecraft:skeleton": "2023-09-20 15:32:24 +0000",
-      "minecraft:hoglin": "2023-09-25 14:18:54 +0000",
-      "minecraft:spider": "2023-09-20 15:33:16 +0000",
-      "minecraft:creeper": "2023-09-21 10:48:00 +0000",
-      "minecraft:witch": "2023-09-22 10:08:32 +0000",
       "minecraft:piglin": "2023-09-25 14:35:33 +0000",
+      "minecraft:witch": "2023-09-22 10:08:32 +0000",
+      "minecraft:spider": "2023-09-20 15:33:16 +0000",
       "minecraft:zombie": "2023-09-20 15:19:46 +0000",
-      "minecraft:drowned": "2023-09-25 04:40:32 +0000"
+      "minecraft:creeper": "2023-09-21 10:48:00 +0000",
+      "minecraft:drowned": "2023-09-25 04:40:32 +0000",
+      "minecraft:hoglin": "2023-09-25 14:18:54 +0000"
     },
     "done": false
   },
@@ -1272,10 +1274,10 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2023-09-25 14:16:01 +0000",
-      "minecraft:sheep": "2023-09-21 22:46:31 +0000",
       "minecraft:cow": "2023-09-21 22:58:04 +0000",
-      "minecraft:chicken": "2023-09-21 23:05:49 +0000"
+      "minecraft:chicken": "2023-09-21 23:05:49 +0000",
+      "minecraft:pig": "2023-09-25 14:16:01 +0000",
+      "minecraft:sheep": "2023-09-21 22:46:31 +0000"
     },
     "done": false
   },
@@ -2174,5 +2176,209 @@
     },
     "done": true
   },
-  "DataVersion": 3465
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2023-09-29 09:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-09-29 13:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2023-09-29 13:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-09-29 13:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-09-29 13:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2023-09-29 13:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-09-29 13:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-09-29 19:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2023-09-29 19:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2023-09-29 19:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-09-29 20:10:09 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3578
 }
