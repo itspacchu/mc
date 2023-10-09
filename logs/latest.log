@@ -1,6 +1,7 @@
-[05:59:39] [User Authenticator #4/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
-[05:59:40] [Server thread/INFO]: WakeAwake joined the game
-[05:59:40] [Server thread/INFO]: WakeAwake[/49.37.25.11:49876] logged in with entity id 25208 at ([world]168.17835814825213, 108.0, 305.9142990821104)
-[06:01:25] [Server thread/INFO]: WakeAwake issued server command: /home farmhouse
-[06:16:46] [Server thread/INFO]: WakeAwake lost connection: Disconnected
-[06:16:46] [Server thread/INFO]: WakeAwake left the game
+[03:52:02] [User Authenticator #14/INFO]: UUID of player cutix45 is 853a8612-7bf6-39b0-b0c0-0aca225d6507
+[03:52:03] [Server thread/INFO]: cutix45 joined the game
+[03:52:03] [Server thread/INFO]: cutix45[/45.123.161.153:58786] logged in with entity id 72663 at ([world]262.4770074497159, 79.0, 369.7427808772565)
+[03:52:17] [Server thread/INFO]: cutix45 issued server command: /home home
+[03:52:51] [Server thread/INFO]: cutix45 has made the advancement [Sweet Dreams]
+[03:55:39] [Server thread/INFO]: cutix45 lost connection: Disconnected
+[03:55:39] [Server thread/INFO]: cutix45 left the game
