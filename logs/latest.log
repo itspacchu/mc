@@ -1,24 +1,3 @@
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.12
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 14.2.13
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[01:11:13] [Craft Scheduler Thread - 259 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.12
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 14.2.13
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[04:20:12] [Craft Scheduler Thread - 261 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:48:02] [Server thread/INFO]: /84.54.51.93:46288 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[02:48:09] [Server thread/INFO]: /84.54.51.93:46594 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/0 (PacketLoginInStart) was larger than I expected, found 9 bytes extra whilst reading packet 0
+[02:48:16] [Server thread/INFO]: /84.54.51.93:47046 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/0 (PacketLoginInStart) was larger than I expected, found 9 bytes extra whilst reading packet 0
