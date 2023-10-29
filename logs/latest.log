@@ -1,3 +1,156 @@
-[02:48:02] [Server thread/INFO]: /84.54.51.93:46288 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
-[02:48:09] [Server thread/INFO]: /84.54.51.93:46594 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/0 (PacketLoginInStart) was larger than I expected, found 9 bytes extra whilst reading packet 0
-[02:48:16] [Server thread/INFO]: /84.54.51.93:47046 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet login/0 (PacketLoginInStart) was larger than I expected, found 9 bytes extra whilst reading packet 0
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[00:07:14] [Craft Scheduler Thread - 183 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[01:49:14] [Craft Scheduler Thread - 185 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[03:31:14] [Craft Scheduler Thread - 187 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[05:13:14] [Craft Scheduler Thread - 189 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[06:55:14] [Craft Scheduler Thread - 191 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[08:37:14] [Craft Scheduler Thread - 193 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:11:33] [User Authenticator #1/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[10:11:34] [Server thread/INFO]: Pacchu joined the game
+[10:11:34] [Server thread/INFO]: Pacchu[/49.206.128.83:16401] logged in with entity id 19811 at ([world]99232.81610148803, 106.0, 99880.71937581082)
+[10:12:29] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[10:12:29] [Server thread/INFO]: Pacchu left the game
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.1
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[10:19:14] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:34:59] [User Authenticator #2/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[10:35:00] [Server thread/INFO]: Pacchu joined the game
+[10:35:00] [Server thread/INFO]: Pacchu[/49.206.128.83:15564] logged in with entity id 19970 at ([world]99241.12781004858, 104.0, 99878.7690159761)
+[10:35:04] [User Authenticator #2/INFO]: UUID of player Adu is a4e08904-f98a-36ae-9a0d-0c5c737ae9cb
+[10:35:06] [Server thread/INFO]: Adu joined the game
+[10:35:06] [Server thread/INFO]: Adu[/49.37.240.111:55719] logged in with entity id 19989 at ([world]99451.5, 89.0, 99811.5)
+[10:35:24] [Server thread/INFO]: Pacchu issued server command: /weather clear
+[10:35:24] [Server thread/INFO]: [Pacchu: Set the weather to clear]
+[10:35:27] [Server thread/INFO]: Pacchu issued server command: /time set day
+[10:35:27] [Server thread/INFO]: [Pacchu: Set the time to 1000]
+[10:35:35] [Server thread/INFO]: Pacchu issued server command: /difficulty peaceful
+[10:35:35] [Server thread/INFO]: [Pacchu: The difficulty has been set to Peaceful]
+[10:35:41] [Server thread/INFO]: Pacchu issued server command: /tp Adu
+[10:35:41] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Adu]
+[10:39:35] [Server thread/INFO]: Pacchu issued server command: /tp Adu
+[10:39:35] [Server thread/INFO]: [Pacchu: Teleported Pacchu to Adu]
+[10:41:32] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:wheat 20
+[10:41:32] [Server thread/INFO]: [Pacchu: Gave 20 [Wheat] to Pacchu]
+[10:41:40] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:saddle
+[10:41:40] [Server thread/INFO]: [Pacchu: Gave 1 [Saddle] to Pacchu]
+[10:41:59] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:wheat 20
+[10:41:59] [Server thread/INFO]: [Pacchu: Gave 20 [Wheat] to Pacchu]
+[10:42:10] [Server thread/INFO]: Pacchu has made the advancement [Best Friends Forever]
+[10:42:23] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:saddle
+[10:42:23] [Server thread/INFO]: [Pacchu: Gave 1 [Saddle] to Pacchu]
+[10:43:16] [Server thread/INFO]: Pacchu issued server command: /give Adi minecraft:wheat 40
+[10:43:26] [Server thread/INFO]: Pacchu issued server command: /give Adu minecraft:wheat 40
+[10:43:26] [Server thread/INFO]: [Pacchu: Gave 40 [Wheat] to Adu]
+[10:43:31] [Server thread/INFO]: Pacchu issued server command: /give Adu minecraft:saddle
+[10:43:31] [Server thread/INFO]: [Pacchu: Gave 1 [Saddle] to Adu]
+[10:44:33] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:horse
+[10:44:33] [Server thread/INFO]: [Pacchu: Summoned new Horse]
+[10:44:42] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:wheat 200
+[10:44:42] [Server thread/INFO]: [Pacchu: Gave 200 [Wheat] to Pacchu]
+[10:45:30] [Server thread/INFO]: Pacchu issued server command: /give Pacchu lead
+[10:45:30] [Server thread/INFO]: [Pacchu: Gave 1 [Lead] to Pacchu]
+[10:45:42] [Server thread/INFO]: Pacchu issued server command: /give Pacchu wheat 200
+[10:45:42] [Server thread/INFO]: [Pacchu: Gave 200 [Wheat] to Pacchu]
+[10:46:09] [Server thread/INFO]: Pacchu issued server command: /give Pacchu minecraft:saddle
+[10:46:09] [Server thread/INFO]: [Pacchu: Gave 1 [Saddle] to Pacchu]
+[10:50:21] [Server thread/INFO]: Pacchu issued server command: /give Adu minecraft:diamond_sword
+[10:50:21] [Server thread/INFO]: [Pacchu: Gave 1 [Diamond Sword] to Adu]
+[10:51:40] [Server thread/INFO]: Pacchu issued server command: /time set day
+[10:51:40] [Server thread/INFO]: [Pacchu: Set the time to 1000]
+[10:52:14] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[10:52:14] [Server thread/INFO]: Pacchu left the game
+[10:52:40] [Server thread/INFO]: Adu lost connection: Disconnected
+[10:52:40] [Server thread/INFO]: Adu left the game
+[10:58:37] [User Authenticator #3/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[10:58:38] [Server thread/INFO]: Pacchu joined the game
+[10:58:38] [Server thread/INFO]: Pacchu[/49.206.128.83:15977] logged in with entity id 20815 at ([world]99458.76299230898, 88.0, 99846.34038185296)
+[10:58:55] [Server thread/INFO]: Pacchu issued server command: /gamemode creative
+[10:58:56] [Server thread/INFO]: [Pacchu: Set own game mode to Creative Mode]
+[10:59:23] [Server thread/INFO]: Pacchu issued server command: /tp 200 ~ 200
+[10:59:23] [Server thread/INFO]: [Pacchu: Teleported Pacchu to 200.500000, 83.618136, 200.500000]
+[10:59:26] [User Authenticator #3/INFO]: UUID of player Adu is a4e08904-f98a-36ae-9a0d-0c5c737ae9cb
+[10:59:27] [Server thread/INFO]: Adu joined the game
+[10:59:27] [Server thread/INFO]: Adu[/49.37.240.111:58382] logged in with entity id 21466 at ([world]99459.44630789924, 92.0, 99838.31248282419)
+[10:59:35] [Server thread/INFO]: Pacchu issued server command: /tp Adu Pacchu
+[10:59:35] [Server thread/INFO]: [Pacchu: Teleported Adu to Pacchu]
+[10:59:42] [Server thread/INFO]: Pacchu issued server command: /gamemode survival
+[10:59:42] [Server thread/INFO]: [Pacchu: Set own game mode to Survival Mode]
+[11:01:03] [Server thread/INFO]: Pacchu has made the advancement [The Parrots and the Bats]
+[11:02:34] [Server thread/INFO]: Pacchu issued server command: /gamemode creative
+[11:02:34] [Server thread/INFO]: [Pacchu: Set own game mode to Creative Mode]
+[11:02:42] [Server thread/INFO]: Pacchu issued server command: /gamemode survival
+[11:02:42] [Server thread/INFO]: [Pacchu: Set own game mode to Survival Mode]
