@@ -2592,5 +2592,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-12-11 06:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2023-12-11 06:21:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3578
 }
