@@ -1,68 +1,48 @@
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[00:45:16] [Craft Scheduler Thread - 4595 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:34] [User Authenticator #25/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
-[01:36:36] [Server thread/INFO]: Pacchu joined the game
-[01:36:36] [Server thread/INFO]: Pacchu[/185.65.134.146:60546] logged in with entity id 154050 at ([world]165.08530458728208, 62.11076428890229, 369.3050086553202)
-[01:36:37] [Server thread/INFO]: Pacchu lost connection: Disconnected
-[01:36:37] [Server thread/INFO]: Pacchu left the game
-[01:36:49] [User Authenticator #25/INFO]: UUID of player Adu is a4e08904-f98a-36ae-9a0d-0c5c737ae9cb
-[01:36:50] [Server thread/INFO]: Adu joined the game
-[01:36:50] [Server thread/INFO]: Adu[/185.65.134.146:52694] logged in with entity id 154205 at ([world]180.12113882769086, 104.0, 305.3537761414719)
-[01:36:52] [Server thread/INFO]: Adu lost connection: Disconnected
-[01:36:52] [Server thread/INFO]: Adu left the game
-[01:37:07] [User Authenticator #25/INFO]: UUID of player Abu is da14fe69-3196-3f03-8414-6a3be3e22617
-[01:37:08] [Server thread/INFO]: Abu joined the game
-[01:37:08] [Server thread/INFO]: Abu[/185.65.134.146:56910] logged in with entity id 154579 at ([world]99303.95352841236, 108.0, 99804.0192427838)
-[01:37:09] [Server thread/INFO]: Abu lost connection: Disconnected
-[01:37:09] [Server thread/INFO]: Abu left the game
-[01:37:26] [User Authenticator #25/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
-[01:37:27] [Server thread/INFO]: WakeAwake joined the game
-[01:37:27] [Server thread/INFO]: WakeAwake[/185.65.134.146:53426] logged in with entity id 154630 at ([world]263.56273849427555, 115.12482108340492, 300.66107137780864)
-[01:37:28] [Server thread/INFO]: WakeAwake lost connection: Disconnected
-[01:37:28] [Server thread/INFO]: WakeAwake left the game
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[02:00:16] [Craft Scheduler Thread - 4597 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[03:15:16] [Craft Scheduler Thread - 4599 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[04:30:16] [Craft Scheduler Thread - 4601 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
