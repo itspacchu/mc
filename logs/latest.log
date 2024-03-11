@@ -1,48 +1,1122 @@
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[00:15:31] [Craft Scheduler Thread - 4863 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[01:30:31] [Craft Scheduler Thread - 4865 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[02:45:31] [Craft Scheduler Thread - 4867 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
-[04:00:31] [Craft Scheduler Thread - 4869 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[00:45:31] [Craft Scheduler Thread - 4979 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[02:00:31] [Craft Scheduler Thread - 4981 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[03:15:31] [Craft Scheduler Thread - 4983 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[04:30:31] [Craft Scheduler Thread - 4985 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[05:45:31] [Craft Scheduler Thread - 4987 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     |------------------|
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     +==================+
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     Current version: 14.2.13
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     New version: 15.0.7
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer]     A new version is available! Downloading it now...
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer] Could not download the update, reason: NO_UPDATE_FOLDER
+[07:00:31] [Craft Scheduler Thread - 4989 - SkinsRestorer/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:08:14] [User Authenticator #38/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[08:08:16] [Server thread/INFO]: Pacchu joined the game
+[08:08:16] [Server thread/INFO]: Pacchu[/185.65.134.170:35228] logged in with entity id 367002 at ([world]99442.5, 85.50000000148938, 99813.5)
+[08:08:18] [Server thread/INFO]: Pacchu issued server command: /gamerule sendCommandFeedback true
+[08:08:18] [Server thread/INFO]: [Pacchu: Gamerule sendCommandFeedback is now set to: true]
+[08:08:18] [Server thread/INFO]: Pacchu issued server command: /gamerule keepInventory false
+[08:08:18] [Server thread/INFO]: [Pacchu: Gamerule keepInventory is now set to: false]
+[08:08:18] [Server thread/INFO]: Pacchu issued server command: /gamerule doImmediateRespawn true
+[08:08:18] [Server thread/INFO]: [Pacchu: Gamerule doImmediateRespawn is now set to: true]
+[08:08:19] [Server thread/INFO]: Pacchu issued server command: /gamerule mobGriefing true
+[08:08:19] [Server thread/INFO]: [Pacchu: Gamerule mobGriefing is now set to: true]
+[08:08:19] [Server thread/INFO]: Pacchu issued server command: /gamerule doFireTick true
+[08:08:19] [Server thread/INFO]: [Pacchu: Gamerule doFireTick is now set to: true]
+[08:08:20] [Server thread/INFO]: Pacchu issued server command: /op WakeAwake
+[08:08:20] [Server thread/INFO]: Pacchu issued server command: /whitelist off
+[08:08:20] [Server thread/INFO]: Pacchu issued server command: /difficulty hard
+[08:08:20] [Server thread/INFO]: Pacchu issued server command: /pardon WakeAwake
+[08:08:20] [Server thread/INFO]: Pacchu issued server command: /gamemode creative
+[08:08:22] [Server thread/INFO]: Pacchu issued server command: /op Abu
+[08:08:23] [Server thread/INFO]: Pacchu issued server command: /pardon Abu
+[08:08:25] [Server thread/INFO]: Pacchu issued server command: /op Pacchu
+[08:08:28] [Server thread/INFO]: Pacchu issued server command: /pardon Pacchu
+[08:08:30] [Server thread/INFO]: Pacchu issued server command: /op Adu
+[08:08:34] [Server thread/INFO]: Pacchu issued server command: /pardon Adu
+[08:08:34] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[08:08:34] [Server thread/INFO]: Pacchu left the game
+[08:08:44] [User Authenticator #38/INFO]: UUID of player WakeAwake is f2c70530-b866-3025-a26a-8cc94dc59ee5
+[08:08:45] [Server thread/INFO]: WakeAwake joined the game
+[08:08:45] [Server thread/INFO]: WakeAwake[/185.65.134.170:48004] logged in with entity id 367251 at ([world]99442.5, 85.70000000148941, 99813.5)
+[08:08:46] [Server thread/INFO]: WakeAwake issued server command: /gamemode creative
+[08:08:46] [Server thread/INFO]: WakeAwake issued server command: /clear
+[08:08:47] [Server thread/INFO]: WakeAwake issued server command: /gamerule doImmediateRespawn true
+[08:08:47] [Server thread/INFO]: [WakeAwake: Gamerule doImmediateRespawn is now set to: true]
+[08:08:47] [Server thread/INFO]: WakeAwake issued server command: /gamerule mobGriefing true
+[08:08:47] [Server thread/INFO]: [WakeAwake: Gamerule mobGriefing is now set to: true]
+[08:08:48] [Server thread/INFO]: WakeAwake issued server command: /gamerule doFireTick true
+[08:08:48] [Server thread/INFO]: [WakeAwake: Gamerule doFireTick is now set to: true]
+[08:08:48] [Server thread/INFO]: WakeAwake issued server command: /difficulty hard
+[08:08:48] [Server thread/INFO]: WakeAwake issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:08:48] [Server thread/INFO]: [WakeAwake: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:08:49] [Server thread/INFO]: WakeAwake issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:08:49] [Server thread/INFO]: [WakeAwake: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:08:49] [Server thread/INFO]: WakeAwake issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:08:49] [Server thread/INFO]: [WakeAwake: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:08:50] [Server thread/INFO]: WakeAwake issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:08:50] [Server thread/INFO]: [WakeAwake: Successfully filled 19 block(s)]
+[08:08:50] [Server thread/INFO]: WakeAwake issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:08:50] [Server thread/INFO]: WakeAwake issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:08:50] [Server thread/INFO]: [WakeAwake: Successfully filled 7 block(s)]
+[08:08:51] [Server thread/INFO]: WakeAwake issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:08:51] [Server thread/INFO]: [WakeAwake: Successfully filled 2 block(s)]
+[08:08:51] [Server thread/INFO]: WakeAwake issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:08:52] [Server thread/INFO]: WakeAwake issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:08:52] [Server thread/INFO]: WakeAwake issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:08:52] [Server thread/INFO]: WakeAwake issued server command: /scoreboard objectives add wm0bokndrz dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:08:52] [Server thread/INFO]: [WakeAwake: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:08:53] [Server thread/INFO]: WakeAwake issued server command: /scoreboard objectives setdisplay sidebar wm0bokndrz
+[08:08:53] [Server thread/INFO]: [WakeAwake: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:08:53] [Server thread/INFO]: WakeAwake issued server command: /save-all
+[08:08:53] [Server thread/INFO]: [WakeAwake: Saved the game]
+[08:08:54] [Server thread/INFO]: WakeAwake issued server command: /op Abu
+[08:08:54] [Server thread/INFO]: WakeAwake issued server command: /kill WakeAwake
+[08:08:54] [Server thread/INFO]: WakeAwake was killed
+[08:08:54] [Server thread/INFO]: [WakeAwake: Killed WakeAwake]
+[08:09:01] [Server thread/INFO]: WakeAwake issued server command: /gamemode creative
+[08:09:01] [Server thread/INFO]: WakeAwake issued server command: /clear
+[08:09:02] [Server thread/INFO]: WakeAwake issued server command: /gamerule doImmediateRespawn true
+[08:09:02] [Server thread/INFO]: [WakeAwake: Gamerule doImmediateRespawn is now set to: true]
+[08:09:02] [Server thread/INFO]: WakeAwake issued server command: /gamerule mobGriefing true
+[08:09:02] [Server thread/INFO]: [WakeAwake: Gamerule mobGriefing is now set to: true]
+[08:09:02] [Server thread/INFO]: WakeAwake issued server command: /gamerule doFireTick true
+[08:09:02] [Server thread/INFO]: [WakeAwake: Gamerule doFireTick is now set to: true]
+[08:09:03] [Server thread/INFO]: WakeAwake issued server command: /difficulty hard
+[08:09:03] [Server thread/INFO]: WakeAwake issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:09:03] [Server thread/INFO]: [WakeAwake: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:09:04] [Server thread/INFO]: WakeAwake issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:09:04] [Server thread/INFO]: [WakeAwake: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:09:04] [Server thread/INFO]: WakeAwake issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:09:04] [Server thread/INFO]: [WakeAwake: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:09:05] [Server thread/INFO]: WakeAwake issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:09:05] [Server thread/INFO]: [WakeAwake: Successfully filled 27 block(s)]
+[08:09:05] [Server thread/INFO]: WakeAwake issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:09:05] [Server thread/INFO]: WakeAwake issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:09:06] [Server thread/INFO]: WakeAwake issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:09:06] [Server thread/INFO]: WakeAwake issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:09:07] [Server thread/INFO]: WakeAwake issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:09:07] [Server thread/INFO]: [WakeAwake: Successfully filled 21424 block(s)]
+[08:09:07] [Server thread/INFO]: WakeAwake issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:09:07] [Server thread/INFO]: [WakeAwake: Successfully filled 32073 block(s)]
+[08:09:07] [Server thread/INFO]: WakeAwake issued server command: /scoreboard objectives add h1fs06zgtu dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:09:07] [Server thread/INFO]: [WakeAwake: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:09:08] [Server thread/INFO]: WakeAwake issued server command: /scoreboard objectives setdisplay sidebar h1fs06zgtu
+[08:09:08] [Server thread/INFO]: [WakeAwake: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:09:08] [Server thread/INFO]: WakeAwake issued server command: /save-all
+[08:09:08] [Server thread/INFO]: [WakeAwake: Saved the game]
+[08:09:08] [Server thread/INFO]: WakeAwake issued server command: /op Abu
+[08:09:09] [Server thread/INFO]: WakeAwake issued server command: /kill WakeAwake
+[08:09:09] [Server thread/INFO]: WakeAwake was killed
+[08:09:09] [Server thread/INFO]: [WakeAwake: Killed WakeAwake]
+[08:09:11] [Async Chat Thread - #3/INFO]: [Not Secure] <WakeAwake> I'll be back.
+[08:09:11] [Server thread/INFO]: WakeAwake lost connection: Disconnected
+[08:09:11] [Server thread/INFO]: WakeAwake left the game
+[08:09:22] [User Authenticator #38/INFO]: UUID of player Abu is da14fe69-3196-3f03-8414-6a3be3e22617
+[08:09:22] [Server thread/INFO]: Abu joined the game
+[08:09:22] [Server thread/INFO]: Abu[/185.65.134.170:46828] logged in with entity id 367419 at ([world]99442.5, 85.66000000148941, 99813.5)
+[08:09:25] [Server thread/INFO]: Abu issued server command: /gamemode creative
+[08:09:25] [Server thread/INFO]: Abu issued server command: /clear
+[08:09:25] [Server thread/INFO]: Abu issued server command: /gamerule doImmediateRespawn true
+[08:09:25] [Server thread/INFO]: [Abu: Gamerule doImmediateRespawn is now set to: true]
+[08:09:26] [Server thread/INFO]: Abu issued server command: /gamerule mobGriefing true
+[08:09:26] [Server thread/INFO]: [Abu: Gamerule mobGriefing is now set to: true]
+[08:09:26] [Server thread/INFO]: Abu issued server command: /gamerule doFireTick true
+[08:09:26] [Server thread/INFO]: [Abu: Gamerule doFireTick is now set to: true]
+[08:09:26] [Server thread/INFO]: Abu issued server command: /difficulty hard
+[08:09:27] [Server thread/INFO]: Abu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:09:27] [Server thread/INFO]: [Abu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:09:28] [Server thread/INFO]: Abu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:09:28] [Server thread/INFO]: [Abu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:09:28] [Server thread/INFO]: Abu issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:09:28] [Server thread/INFO]: [Abu: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:09:28] [Server thread/INFO]: Abu issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:09:28] [Server thread/INFO]: [Abu: Successfully filled 35 block(s)]
+[08:09:29] [Server thread/INFO]: Abu issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:09:29] [Server thread/INFO]: Abu issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:09:29] [Server thread/INFO]: Abu issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:09:30] [Server thread/INFO]: Abu issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:09:30] [Server thread/INFO]: [Abu: Successfully filled 2 block(s)]
+[08:09:30] [Server thread/INFO]: Abu issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:09:30] [Server thread/INFO]: Abu issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:09:31] [Server thread/INFO]: Abu issued server command: /scoreboard objectives add h3wr92fonn dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:09:31] [Server thread/INFO]: [Abu: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:09:31] [Server thread/INFO]: Abu issued server command: /scoreboard objectives setdisplay sidebar h3wr92fonn
+[08:09:31] [Server thread/INFO]: [Abu: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:09:32] [Server thread/INFO]: Abu issued server command: /save-all
+[08:09:32] [Server thread/INFO]: [Abu: Saved the game]
+[08:09:32] [Server thread/INFO]: Abu issued server command: /op Pacchu
+[08:09:32] [Server thread/INFO]: Abu issued server command: /kill Abu
+[08:09:32] [Server thread/INFO]: Abu was killed
+[08:09:32] [Server thread/INFO]: [Abu: Killed Abu]
+[08:09:37] [Server thread/INFO]: Abu issued server command: /gamemode creative
+[08:09:38] [Server thread/INFO]: Abu issued server command: /clear
+[08:09:38] [Server thread/INFO]: Abu issued server command: /gamerule doImmediateRespawn true
+[08:09:38] [Server thread/INFO]: [Abu: Gamerule doImmediateRespawn is now set to: true]
+[08:09:39] [Server thread/INFO]: Abu issued server command: /gamerule mobGriefing true
+[08:09:39] [Server thread/INFO]: [Abu: Gamerule mobGriefing is now set to: true]
+[08:09:39] [Server thread/INFO]: Abu issued server command: /gamerule doFireTick true
+[08:09:39] [Server thread/INFO]: [Abu: Gamerule doFireTick is now set to: true]
+[08:09:39] [Server thread/INFO]: Abu issued server command: /difficulty hard
+[08:09:40] [Server thread/INFO]: Abu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:09:40] [Server thread/INFO]: [Abu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:09:40] [Server thread/INFO]: Abu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:09:40] [Server thread/INFO]: [Abu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:09:41] [Server thread/INFO]: Abu issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:09:41] [Server thread/INFO]: [Abu: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:09:41] [Server thread/INFO]: Abu issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:09:42] [Server thread/INFO]: Abu issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:09:42] [Server thread/INFO]: Abu issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:09:42] [Server thread/INFO]: Abu issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:09:43] [Server thread/INFO]: Abu issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:09:43] [Server thread/INFO]: Abu issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:09:43] [Server thread/INFO]: [Abu: Successfully filled 21430 block(s)]
+[08:09:44] [Server thread/INFO]: Abu issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:09:44] [Server thread/INFO]: [Abu: Successfully filled 32073 block(s)]
+[08:09:44] [Server thread/INFO]: Abu issued server command: /scoreboard objectives add y2i2qngptr dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:09:44] [Server thread/INFO]: [Abu: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:09:44] [Server thread/INFO]: Abu issued server command: /scoreboard objectives setdisplay sidebar y2i2qngptr
+[08:09:44] [Server thread/INFO]: [Abu: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:09:45] [Server thread/INFO]: Abu issued server command: /save-all
+[08:09:45] [Server thread/INFO]: [Abu: Saved the game]
+[08:09:45] [Server thread/INFO]: Abu issued server command: /op Pacchu
+[08:09:45] [Server thread/INFO]: Abu issued server command: /kill Abu
+[08:09:45] [Server thread/INFO]: Abu was killed
+[08:09:45] [Server thread/INFO]: [Abu: Killed Abu]
+[08:09:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Abu> I'll be back.
+[08:09:48] [Server thread/INFO]: Abu lost connection: Disconnected
+[08:09:48] [Server thread/INFO]: Abu left the game
+[08:09:59] [User Authenticator #38/INFO]: UUID of player Pacchu is 7088e82f-60a4-3e5e-b33c-657228993dbc
+[08:10:00] [Server thread/INFO]: Pacchu joined the game
+[08:10:00] [Server thread/INFO]: Pacchu[/185.65.134.170:59914] logged in with entity id 367603 at ([world]99442.5, 79.06000000148838, 99813.5)
+[08:10:01] [Server thread/INFO]: Pacchu issued server command: /gamemode creative
+[08:10:01] [Server thread/INFO]: Pacchu issued server command: /clear
+[08:10:01] [Server thread/INFO]: Pacchu issued server command: /gamerule doImmediateRespawn true
+[08:10:01] [Server thread/INFO]: [Pacchu: Gamerule doImmediateRespawn is now set to: true]
+[08:10:02] [Server thread/INFO]: Pacchu issued server command: /gamerule mobGriefing true
+[08:10:02] [Server thread/INFO]: [Pacchu: Gamerule mobGriefing is now set to: true]
+[08:10:02] [Server thread/INFO]: Pacchu issued server command: /gamerule doFireTick true
+[08:10:02] [Server thread/INFO]: [Pacchu: Gamerule doFireTick is now set to: true]
+[08:10:03] [Server thread/INFO]: Pacchu issued server command: /difficulty hard
+[08:10:03] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:03] [Server thread/INFO]: [Pacchu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:03] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:03] [Server thread/INFO]: [Pacchu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:04] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:10:04] [Server thread/INFO]: [Pacchu: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:10:04] [Server thread/INFO]: Pacchu issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:10:04] [Server thread/INFO]: [Pacchu: Successfully filled 48 block(s)]
+[08:10:05] [Server thread/INFO]: Pacchu issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:10:05] [Server thread/INFO]: [Pacchu: Successfully filled 11 block(s)]
+[08:10:05] [Server thread/INFO]: Pacchu issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:10:05] [Server thread/INFO]: [Pacchu: Successfully filled 69 block(s)]
+[08:10:05] [Server thread/INFO]: Pacchu issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:10:05] [Server thread/INFO]: [Pacchu: Successfully filled 4 block(s)]
+[08:10:06] [Server thread/INFO]: Pacchu issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:10:06] [Server thread/INFO]: [Pacchu: Successfully filled 9 block(s)]
+[08:10:06] [Server thread/INFO]: Pacchu issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:10:07] [Server thread/INFO]: [Pacchu: Successfully filled 23516 block(s)]
+[08:10:07] [Server thread/INFO]: Pacchu issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:10:07] [Server thread/INFO]: [Pacchu: Successfully filled 22889 block(s)]
+[08:10:07] [Server thread/INFO]: Pacchu issued server command: /scoreboard objectives add 92l495iqlv dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:10:07] [Server thread/INFO]: [Pacchu: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:10:08] [Server thread/INFO]: Pacchu issued server command: /scoreboard objectives setdisplay sidebar 92l495iqlv
+[08:10:08] [Server thread/INFO]: [Pacchu: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:10:08] [Server thread/INFO]: Pacchu issued server command: /save-all
+[08:10:08] [Server thread/INFO]: [Pacchu: Saved the game]
+[08:10:08] [Server thread/INFO]: Pacchu issued server command: /op Adu
+[08:10:09] [Server thread/INFO]: Pacchu issued server command: /kill Pacchu
+[08:10:09] [Server thread/INFO]: Pacchu was killed
+[08:10:09] [Server thread/INFO]: [Pacchu: Killed Pacchu]
+[08:10:15] [Server thread/INFO]: Pacchu issued server command: /gamemode creative
+[08:10:16] [Server thread/INFO]: Pacchu issued server command: /clear
+[08:10:16] [Server thread/INFO]: Pacchu issued server command: /gamerule doImmediateRespawn true
+[08:10:16] [Server thread/INFO]: [Pacchu: Gamerule doImmediateRespawn is now set to: true]
+[08:10:16] [Server thread/INFO]: Pacchu issued server command: /gamerule mobGriefing true
+[08:10:16] [Server thread/INFO]: [Pacchu: Gamerule mobGriefing is now set to: true]
+[08:10:17] [Server thread/INFO]: Pacchu issued server command: /gamerule doFireTick true
+[08:10:17] [Server thread/INFO]: [Pacchu: Gamerule doFireTick is now set to: true]
+[08:10:17] [Server thread/INFO]: Pacchu issued server command: /difficulty hard
+[08:10:18] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:18] [Server thread/INFO]: [Pacchu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:18] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:18] [Server thread/INFO]: [Pacchu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:19] [Server thread/INFO]: Pacchu issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:10:19] [Server thread/INFO]: [Pacchu: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:10:19] [Server thread/INFO]: Pacchu issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:10:19] [Server thread/INFO]: [Pacchu: Successfully filled 34 block(s)]
+[08:10:19] [Server thread/INFO]: Pacchu issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:10:19] [Server thread/INFO]: [Pacchu: Successfully filled 160 block(s)]
+[08:10:20] [Server thread/INFO]: Pacchu issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:10:20] [Server thread/INFO]: [Pacchu: Successfully filled 418 block(s)]
+[08:10:20] [Server thread/INFO]: Pacchu issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:10:20] [Server thread/INFO]: [Pacchu: Successfully filled 125 block(s)]
+[08:10:20] [Server thread/INFO]: Pacchu issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:10:21] [Server thread/INFO]: [Pacchu: Successfully filled 418 block(s)]
+[08:10:21] [Server thread/INFO]: Pacchu issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:10:21] [Server thread/INFO]: [Pacchu: Successfully filled 21429 block(s)]
+[08:10:21] [Server thread/INFO]: Pacchu issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:10:22] [Server thread/INFO]: Pacchu issued server command: /scoreboard objectives add fyi5fwqpqr dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:10:22] [Server thread/INFO]: [Pacchu: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:10:22] [Server thread/INFO]: Pacchu issued server command: /scoreboard objectives setdisplay sidebar fyi5fwqpqr
+[08:10:22] [Server thread/INFO]: [Pacchu: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:10:23] [Server thread/INFO]: Pacchu issued server command: /save-all
+[08:10:23] [Server thread/INFO]: [Pacchu: Saved the game]
+[08:10:23] [Server thread/INFO]: Pacchu issued server command: /op Adu
+[08:10:23] [Server thread/INFO]: Pacchu issued server command: /kill Pacchu
+[08:10:23] [Server thread/INFO]: Pacchu was killed
+[08:10:23] [Server thread/INFO]: [Pacchu: Killed Pacchu]
+[08:10:24] [Async Chat Thread - #3/INFO]: [Not Secure] <Pacchu> I'll be back.
+[08:10:24] [Server thread/INFO]: Pacchu lost connection: Disconnected
+[08:10:24] [Server thread/INFO]: Pacchu left the game
+[08:10:35] [User Authenticator #38/INFO]: UUID of player Adu is a4e08904-f98a-36ae-9a0d-0c5c737ae9cb
+[08:10:35] [Server thread/INFO]: Adu joined the game
+[08:10:35] [Server thread/INFO]: Adu[/185.65.134.170:56866] logged in with entity id 368777 at ([world]99442.5, 70.98000000148741, 99813.5)
+[08:10:36] [Server thread/INFO]: Adu issued server command: /gamemode creative
+[08:10:37] [Server thread/INFO]: Adu issued server command: /clear
+[08:10:37] [Server thread/INFO]: Adu issued server command: /gamerule doImmediateRespawn true
+[08:10:37] [Server thread/INFO]: [Adu: Gamerule doImmediateRespawn is now set to: true]
+[08:10:38] [Server thread/INFO]: Adu issued server command: /gamerule mobGriefing true
+[08:10:38] [Server thread/INFO]: [Adu: Gamerule mobGriefing is now set to: true]
+[08:10:38] [Server thread/INFO]: Adu issued server command: /gamerule doFireTick true
+[08:10:38] [Server thread/INFO]: [Adu: Gamerule doFireTick is now set to: true]
+[08:10:38] [Server thread/INFO]: Adu issued server command: /difficulty hard
+[08:10:39] [Server thread/INFO]: Adu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:39] [Server thread/INFO]: [Adu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:39] [Server thread/INFO]: Adu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:39] [Server thread/INFO]: [Adu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:40] [Server thread/INFO]: Adu issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:10:40] [Server thread/INFO]: [Adu: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:10:40] [Server thread/INFO]: Adu issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:10:40] [Server thread/INFO]: [Adu: Successfully filled 27 block(s)]
+[08:10:40] [Server thread/INFO]: Adu issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:10:41] [Server thread/INFO]: Adu issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:10:41] [Server thread/INFO]: Adu issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:10:41] [Server thread/INFO]: [Adu: Successfully filled 2 block(s)]
+[08:10:41] [Server thread/INFO]: Adu issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:10:42] [Server thread/INFO]: Adu issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:10:42] [Server thread/INFO]: [Adu: Successfully filled 8 block(s)]
+[08:10:42] [Server thread/INFO]: Adu issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:10:43] [Server thread/INFO]: [Adu: Successfully filled 25537 block(s)]
+[08:10:43] [Server thread/INFO]: Adu issued server command: /scoreboard objectives add fm7d0d8def dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:10:43] [Server thread/INFO]: [Adu: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:10:43] [Server thread/INFO]: Adu issued server command: /scoreboard objectives setdisplay sidebar fm7d0d8def
+[08:10:43] [Server thread/INFO]: [Adu: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:10:43] [Server thread/INFO]: Adu issued server command: /save-all
+[08:10:44] [Server thread/INFO]: [Adu: Saved the game]
+[08:10:44] [Server thread/INFO]: Adu issued server command: /kill Adu
+[08:10:44] [Server thread/INFO]: Adu was killed
+[08:10:44] [Server thread/INFO]: [Adu: Killed Adu]
+[08:10:45] [Server thread/INFO]: Adu issued server command: /gamemode creative
+[08:10:46] [Server thread/INFO]: Adu issued server command: /clear
+[08:10:46] [Server thread/INFO]: Adu issued server command: /gamerule doImmediateRespawn true
+[08:10:46] [Server thread/INFO]: [Adu: Gamerule doImmediateRespawn is now set to: true]
+[08:10:46] [Server thread/INFO]: Adu issued server command: /gamerule mobGriefing true
+[08:10:46] [Server thread/INFO]: [Adu: Gamerule mobGriefing is now set to: true]
+[08:10:47] [Server thread/INFO]: Adu issued server command: /gamerule doFireTick true
+[08:10:47] [Server thread/INFO]: [Adu: Gamerule doFireTick is now set to: true]
+[08:10:47] [Server thread/INFO]: Adu issued server command: /difficulty hard
+[08:10:48] [Server thread/INFO]: Adu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:48] [Server thread/INFO]: [Adu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:48] [Server thread/INFO]: Adu issued server command: /summon minecraft:wither ~ ~ ~ {Invulnerable:1b,CustomName:'{"text":"MOUNTAINSOFLAVAINC T-800 Terminator","color":"red"}'}
+[08:10:48] [Server thread/INFO]: [Adu: Summoned new MOUNTAINSOFLAVAINC T-800 Terminator]
+[08:10:48] [Server thread/INFO]: Adu issued server command: /summon minecraft:fireball ~ ~ ~ {Motion:[0.0,-5.0,0.0],ExplosionPower:127b,CustomName:'{"text":"WATCHMOUNTAINSOFLAVAINCONYOUTUBE","color":"red"}'}
+[08:10:48] [Server thread/INFO]: [Adu: Summoned new WATCHMOUNTAINSOFLAVAINCONYOUTUBE]
+[08:10:49] [Server thread/INFO]: Adu issued server command: /fill ~21 ~8 ~21 ~-21 ~-8 ~-21 lava
+[08:10:49] [Server thread/INFO]: [Adu: Successfully filled 28 block(s)]
+[08:10:49] [Server thread/INFO]: Adu issued server command: /fill ~22 ~8 ~21 ~64 ~-8 ~-21 lava
+[08:10:50] [Server thread/INFO]: Adu issued server command: /fill ~-64 ~8 ~21 ~-22 ~-8 ~-21 lava
+[08:10:50] [Server thread/INFO]: Adu issued server command: /fill ~21 ~8 ~22 ~-21 ~-8 ~64 lava
+[08:10:50] [Server thread/INFO]: [Adu: Successfully filled 123 block(s)]
+[08:10:50] [Server thread/INFO]: Adu issued server command: /fill ~21 ~8 ~-64 ~-21 ~-8 ~-22 lava
+[08:10:51] [Server thread/INFO]: Adu issued server command: /fill ~90 ~ ~90 ~-90 ~ ~-90 lava
+[08:10:51] [Server thread/INFO]: [Adu: Successfully filled 10 block(s)]
+[08:10:51] [Server thread/INFO]: Adu issued server command: /fill ~90 ~20 ~90 ~-90 ~20 ~-90 lava
+[08:10:51] [Server thread/INFO]: [Adu: Successfully filled 32073 block(s)]
+[08:10:52] [Server thread/INFO]: Adu issued server command: /scoreboard objectives add akdpcq8de1 dummy {"text":" !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com"}
+[08:10:52] [Server thread/INFO]: [Adu: Created new objective [ !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]]
+[08:10:52] [Server thread/INFO]: Adu issued server command: /scoreboard objectives setdisplay sidebar akdpcq8de1
+[08:10:52] [Server thread/INFO]: [Adu: Set display slot sidebar to show objective  !!!TERMINATED BY SKYNET!!! ---> Mountains of Lava Inc. ---> Please email any concerns to: molcomplaints@breakblocks.com]
+[08:10:52] [Server thread/INFO]: Adu issued server command: /save-all
+[08:10:53] [Server thread/INFO]: [Adu: Saved the game]
+[08:10:53] [Server thread/INFO]: Adu issued server command: /kill Adu
+[08:10:53] [Server thread/INFO]: Adu was killed
+[08:10:53] [Server thread/INFO]: [Adu: Killed Adu]
+[08:10:54] [Async Chat Thread - #5/INFO]: [Not Secure] <Adu> I'll be back.
+[08:10:54] [Server thread/INFO]: Adu issued server command: /gamerule sendCommandFeedback false
+[08:10:54] [Server thread/INFO]: [Adu: Gamerule sendCommandFeedback is now set to: false]
+[08:10:55] [Server thread/INFO]: Adu issued server command: /gamerule logAdminCommands false
+[08:10:56] [Server thread/INFO]: Adu issued server command: /gamerule randomTickSpeed 2147483647
+[08:11:06] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:06] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[08:11:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:06] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:06] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:06] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:06] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:204)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunkSection.getNoiseBiome(LevelChunkSection.java:219)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkAccess.getNoiseBiome(ChunkAccess.java:492)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getNoiseBiome(LevelReader.java:73)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.BiomeManager.getBiome(BiomeManager.java:64)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getBiome(LevelReader.java:52)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickIceAndSnow(ServerLevel.java:1061)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1012)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:06] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:06] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:06] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:11] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:11] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[08:11:11] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:11] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:11] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:11] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:11] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:11] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:204)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunkSection.getNoiseBiome(LevelChunkSection.java:219)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkAccess.getNoiseBiome(ChunkAccess.java:492)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getNoiseBiome(LevelReader.java:73)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.BiomeManager.getBiome(BiomeManager.java:64)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getBiome(LevelReader.java:52)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickIceAndSnow(ServerLevel.java:1061)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1012)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:11] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:11] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:11] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:11] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:16] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:16] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[08:11:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:16] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:16] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:16] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:16] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:204)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunkSection.getNoiseBiome(LevelChunkSection.java:219)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkAccess.getNoiseBiome(ChunkAccess.java:492)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getNoiseBiome(LevelReader.java:73)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.BiomeManager.getBiome(BiomeManager.java:64)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getBiome(LevelReader.java:52)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickIceAndSnow(ServerLevel.java:1061)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1012)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:16] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:16] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:16] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:21] [Paper Watchdog Thread/ERROR]: The server has not responded for 25 seconds! Creating thread dump
+[08:11:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:21] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:21] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:21] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:21] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:204)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunkSection.getNoiseBiome(LevelChunkSection.java:219)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkAccess.getNoiseBiome(ChunkAccess.java:492)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getNoiseBiome(LevelReader.java:73)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.BiomeManager.getBiome(BiomeManager.java:64)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getBiome(LevelReader.java:52)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickIceAndSnow(ServerLevel.java:1061)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1012)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:21] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:26] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:26] [Paper Watchdog Thread/ERROR]: The server has not responded for 30 seconds! Creating thread dump
+[08:11:26] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:26] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:26] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:26] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:26] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:26] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:204)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunkSection.getNoiseBiome(LevelChunkSection.java:219)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.ChunkAccess.getNoiseBiome(ChunkAccess.java:492)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getNoiseBiome(LevelReader.java:73)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.biome.BiomeManager.getBiome(BiomeManager.java:64)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.getBiome(LevelReader.java:52)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickIceAndSnow(ServerLevel.java:1061)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1012)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:26] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:26] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:26] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:26] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:31] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:31] [Paper Watchdog Thread/ERROR]: The server has not responded for 35 seconds! Creating thread dump
+[08:11:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:31] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:31] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:31] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:31] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:319)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:305)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:1172)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.isEmptyBlock(LevelReader.java:101)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.LavaFluid.randomTick(LavaFluid.java:109)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.FluidState.randomTick(FluidState.java:92)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.LiquidBlock.randomTick(LiquidBlock.java:68)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:31] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:31] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:31] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:36] [Paper Watchdog Thread/ERROR]: The server has not responded for 40 seconds! Creating thread dump
+[08:11:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:36] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:36] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:36] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:36] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:319)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:305)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:1172)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.LavaFluid.randomTick(LavaFluid.java:83)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.FluidState.randomTick(FluidState.java:92)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.LiquidBlock.randomTick(LiquidBlock.java:68)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:36] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:36] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:36] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:41] [Paper Watchdog Thread/ERROR]: The server has not responded for 45 seconds! Creating thread dump
+[08:11:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:41] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:41] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:41] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:41] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:319)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:305)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:1172)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.isEmptyBlock(LevelReader.java:101)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.LavaFluid.randomTick(LavaFluid.java:109)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.FluidState.randomTick(FluidState.java:92)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.LiquidBlock.randomTick(LiquidBlock.java:68)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:41] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:46] [Paper Watchdog Thread/ERROR]: The server has not responded for 50 seconds! Creating thread dump
+[08:11:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:46] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:46] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:46] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:46] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:46] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:51] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:51] [Paper Watchdog Thread/ERROR]: The server has not responded for 55 seconds! Creating thread dump
+[08:11:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:51] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:51] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:51] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:51] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:51] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:51] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:51] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:56] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-259 (MC: 1.20.2) ---
+[08:11:56] [Paper Watchdog Thread/ERROR]: The server has not responded for 60 seconds! Creating thread dump
+[08:11:56] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:56] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:56] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:56] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:56] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:56] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:319)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:305)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:1172)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.LavaFluid.randomTick(LavaFluid.java:83)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.FluidState.randomTick(FluidState.java:92)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.LiquidBlock.randomTick(LiquidBlock.java:68)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:56] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:56] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:56] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:56] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Paper bug.
+[08:11:57] [Paper Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[08:11:57] [Paper Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[08:11:57] [Paper Watchdog Thread/ERROR]: If you are unsure or still think this is a Paper bug, please report this to https://github.com/PaperMC/Paper/issues
+[08:11:57] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[08:11:57] [Paper Watchdog Thread/ERROR]: Paper version: git-Paper-259 (MC: 1.20.2)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:319)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:305)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:1172)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.LevelReader.isEmptyBlock(LevelReader.java:101)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.LavaFluid.randomTick(LavaFluid.java:109)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.FluidState.randomTick(FluidState.java:92)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.LiquidBlock.randomTick(LiquidBlock.java:68)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Entire Thread Dump:
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.Reference.processPendingReferences(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Finalizer
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 4 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Notification Thread
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 12 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.ref.CleanerImpl.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.InnocuousThread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Log4j2-AsyncAppenderEventDispatcher-1-Async
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		Locked on:org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:173)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.RandomAccessFile.writeBytes(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.RandomAccessFile.write(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:144)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:283)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:173)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:217)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:208)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:199)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:243)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:161)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:134)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:125)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rewrite.RewriteAppender.append(RewriteAppender.java:84)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:161)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:134)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:125)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rewrite.RewriteAppender.append(RewriteAppender.java:84)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:161)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:134)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:125)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatch(AsyncAppenderEventDispatcher.java:130)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatchAll(AsyncAppenderEventDispatcher.java:92)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.run(AsyncAppenderEventDispatcher.java:74)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: JNA Cleaner
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Object.wait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.ref.ReferenceQueue.remove(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		com.sun.jna.internal.Cleaner$1.run(Cleaner.java:58)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Timer hack thread
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.sleep(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.Util$7.run(Util.java:713)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Yggdrasil Key Fetcher
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Worker-Main-1
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.PalettedContainer.get(PalettedContainer.java:209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockStateFinal(LevelChunk.java:319)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.chunk.LevelChunk.getBlockState(LevelChunk.java:305)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.Level.getBlockState(Level.java:1172)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.LavaFluid.randomTick(LavaFluid.java:83)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.material.FluidState.randomTick(FluidState.java:92)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.LiquidBlock.randomTick(LiquidBlock.java:68)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.randomTick(BlockBehaviour.java:1209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tickChunk(ServerLevel.java:1044)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:652)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:855)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1548)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:446)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1379)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1156)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$5234/0x0000001801a5ce98.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: RegionFile I/O Thread #0
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Tuinity Chunk System Worker #0
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 34 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Watchdog Thread
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.management@17.0.8.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.management@17.0.8.1/sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.management@17.0.8.1/sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:203)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Server console handler
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: true | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.8.1/java.io.BufferedInputStream.read(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.8.1/sun.nio.cs.StreamDecoder.read(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@17.0.8.1/java.io.BufferedReader.readLine(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.FileInputStream.readBytes(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.FileInputStream.read(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.BufferedInputStream.read1(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.BufferedInputStream.read(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.cs.StreamDecoder.read(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.InputStreamReader.read(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.BufferedReader.fill(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.BufferedReader.readLine(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.io.BufferedReader.readLine(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:180)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:143)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: pool-8-thread-1
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #0
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: true | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: bStats-Metrics
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: TIMED_WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #1
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: true | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: RCON Listener #1
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.ch.Net.poll(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.ch.NioSocketImpl.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.ch.NioSocketImpl.timedAccept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/sun.nio.ch.NioSocketImpl.accept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.net.ServerSocket.implAccept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.net.ServerSocket.platformImplAccept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.net.ServerSocket.implAccept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.net.ServerSocket.implAccept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.net.ServerSocket.accept(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.rcon.thread.RconThread.run(RconThread.java:41)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Craft Async Scheduler Management Thread
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 44 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #2
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 47 | Suspended: false | Native: true | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #3
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 48 | Suspended: false | Native: true | State: RUNNABLE
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:209)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.Native.epollWait(Native.java:202)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:316)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:373)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Async Tab Complete Thread - #0
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 7577 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:57] [Paper Watchdog Thread/ERROR]: Current Thread: Async Tab Complete Thread - #1
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	PID: 7578 | Suspended: false | Native: false | State: WAITING
+[08:11:57] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/jdk.internal.misc.Unsafe.park(Native Method)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.LockSupport.park(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ForkJoinPool.managedBlock(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8.1/java.lang.Thread.run(Unknown Source)
+[08:11:57] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:58] [Paper Watchdog Thread/INFO]: Stopping server
+[08:11:58] [Paper Watchdog Thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.13
+[08:11:58] [Paper Watchdog Thread/INFO]: [Sethome-Yottaka] Disabling Sethome-Yottaka v1.20.1
+[08:11:58] [Paper Watchdog Thread/ERROR]: [Sethome-Yottaka] Could not save config to plugins/Sethome-Yottaka/config.yml
+java.io.IOException: Unable to create parent directories of plugins/Sethome-Yottaka/config.yml
+	at com.google.common.io.Files.createParentDirs(Files.java:479) ~[guava-32.1.2-jre.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:63) ~[paper-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.saveConfig(JavaPlugin.java:187) ~[paper-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at com.yottaka.sethome.jp.sethomeyottaka.Sethome_Yottaka.saveHomes(Sethome_Yottaka.java:80) ~[Sethome-Yottaka-1.20.1.jar:?]
+	at com.yottaka.sethome.jp.sethomeyottaka.Sethome_Yottaka.onDisable(Sethome_Yottaka.java:31) ~[Sethome-Yottaka-1.20.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:283) ~[paper-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:224) ~[paper-1.20.2.jar:git-Paper-259]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:148) ~[paper-1.20.2.jar:git-Paper-259]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:92) ~[paper-1.20.2.jar:git-Paper-259]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:528) ~[paper-api-1.20.2-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.disablePlugins(CraftServer.java:575) ~[paper-1.20.2.jar:git-Paper-259]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:930) ~[paper-1.20.2.jar:git-Paper-259]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:817) ~[paper-1.20.2.jar:git-Paper-259]
+	at net.minecraft.server.MinecraftServer.close(MinecraftServer.java:885) ~[paper-1.20.2.jar:git-Paper-259]
+	at org.spigotmc.WatchdogThread.run(WatchdogThread.java:232) ~[paper-1.20.2.jar:git-Paper-259]
+[08:11:58] [Paper Watchdog Thread/INFO]: Saving players
+[08:11:58] [Paper Watchdog Thread/INFO]: Adu lost connection: Server is restarting
+[08:11:58] [Paper Watchdog Thread/INFO]: Adu left the game
+[08:11:58] [Paper Watchdog Thread/INFO]: Saving worlds
+[08:11:58] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:11:58] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:11:58] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:11:58] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 343 block chunks, 269 entity chunks, 0 poi chunks in world 'world' in 0.59s
+[08:11:59] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:11:59] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 65 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[08:11:59] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:11:59] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:11:59] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[08:11:59] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:11:59] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:11:59] [Paper Watchdog Thread/INFO]: Flushing Chunk IO
+[08:11:59] [Paper Watchdog Thread/INFO]: Closing Thread Pool
+[08:11:59] [Paper Watchdog Thread/INFO]: Closing Server
